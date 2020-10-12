@@ -1,0 +1,31 @@
+1. 字段名全面兼容原划词助手模板如下
+单词  : expression	[原划词助手字段]
+音标  : reading		[原划词助手字段]
+释义  : glossary	[原划词助手字段]
+句子  : sentence	[原划词助手字段]
+笔记  : note		[原划词助手字段]
+网址  : url		[原划词助手字段]
+音频  : audio		[原划词助手字段]
+柯林斯: collins		[Antimoon新增字段]
+Vocab : vocab		[Antimoon新增字段]
+Antimoon标志：add-dw	[Antimoon新增字段]
+
+注:[请原来下载使用过chrome划词助手，安卓划词助手和iOS workflow划词助手的同学注意字段名对应]
+
+2. 根据Antimoon的标志位add-dw自动产生单面或者双面卡片
+- add-dw 字段为空，不可以有任何值，0也不可以，则产生单面word-definition卡片 （相当于原划词助手的单面卡）
+- add-dw 字段非空，比如设置数字1，则产生双面word-definition/definition-word卡片 （相当于Antimoon的双面卡）
+
+3. 全平台自适应本地、在线、TTS音频三选一发音
+- 如果下载过本地音频在audio字段，则audio字段显示发音按钮，点击发音按钮播放audio字段内的音频
+注:[电脑端需安装插件 #498789867(replay button on card) 才能显示发音按钮]
+- 如果没有下载过本地在audio字段，则点击单词本身，模板会根据选项isTTS的取值，决定是TTS发音，还是在线音频发音
+- 全局变量isTTS在模板的style(样式区)寻找，isTTS=false 有道在线发音；isTTS=true (iOS only)TTS发音
+
+4. 其他新增特色
+- 模板会根据iPhone还是iPad的屏幕大小进行字体大小设置 （iOS only: iPhone字体18点，iPad字体28点）
+- 学习新单词用的word-definition 卡片会显示vocabulary.com的短解释和长解释
+- 而复习旧单词拼写用的definition-word卡片仅显示vocabulary.com的短解释
+- (Antimoon)definition-word卡片的正面，句中单词镂空，在原处以黑点替代。
+- (Antimoon)definition-word卡片的反面，句中单词恢复原样，便于阅读理解。
+
