@@ -17,6 +17,8 @@
 
 ## How?
 
+Add的原则：
+
 1. Keep Your Decks **Simple**
 1. First **Understand**, Then Memorize
 1. Lay the **Foundations** First
@@ -24,6 +26,12 @@
 1. **Cloze** Deletions Are Your Best Friend
 1. Use **Images**, Photos, & Figures
 2. Schedule a **block** of time for Anki (In test...)
+
+Review的原则：Decouple review and question
+
+1. **Review**: 复习现有的Anki card，遇到疑惑记录(截图？)在册，避免中断。一个原则：小于半分钟的处理，可以立刻执行。
+3. **Add**: 将记录的疑惑处理，或者放入第二天的review中处理，避免影响之后的安排。
+
 
 ### MAKE(Minimal Actionable Knowledge and Experience)
 
