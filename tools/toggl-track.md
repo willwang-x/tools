@@ -30,5 +30,5 @@
 
 * Background Tracking?
 * Integrations?
-* 研究如何用颜色来表示精力？
+* 研究如何用**颜色**来表示精力？
 * 如何写好一个条目？
