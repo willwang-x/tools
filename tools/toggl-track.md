@@ -1,6 +1,6 @@
 # Toggl Track 
 
-> Effortless time tracking and reporting -- [toggl](https://toggl.com/track/features/)
+> Effortless time tracking and reporting - [toggl](https://toggl.com/track/features/)
 
 ## Why
 
@@ -14,7 +14,8 @@
 * Time-tracking: There's **more than one way** to track time
 	* One-Click Timers
 	* Background Tracking
-	* Calendar Integration
+	* **[Calendar](https://support.toggl.com/en/articles/3924052-tracking-time-in-toggl-track-calendar)** Integration
+		* Each time entry is shown as a **colored** block (using selected **project** colors) on the calendar 
 	* Autotracker
 * Reporting: Powerful reporting to reveal **actionable** insights
 	* Summary, Detailed, & Weekly Reports
@@ -30,5 +31,4 @@
 
 * Background Tracking?
 * Integrations?
-* 研究如何用**颜色**来表示精力？
 * 如何写好一个条目？
