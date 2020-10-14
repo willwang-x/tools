@@ -1,5 +1,8 @@
 # ffmpeg
 
+> A complete, cross-platform solution to record, convert and stream audio and video.
+
+
 ## Why 
 
 * automate what's about video 
@@ -46,3 +49,21 @@
 	* 6.2 X11 grabbing
 	* 6.3 Video and Audio file format conversion
 
+## Use case 
+
+* [Take Screenshot from Video with FFmpeg](https://www.junian.net/tech/ffmpeg-video-screenshot/)
+* How to extract one frame of a video every N seconds to an image? 
+	* [A](https://superuser.com/questions/135117/how-to-extract-one-frame-of-a-video-every-n-seconds-to-an-image/729351): ffmpeg -i input.mov -r 0.25 output_%04d.png
+
+Test：
+
+* extract one frame of video every N seconds
+* extract one frame of video with subtitles every N seconds
+* extract one frame of video at given time (list of timestamp)
+
+## More 
+
+* [FFmpeg的使用](https://www.jianshu.com/p/7ed3be01228b)
+* [FFmpeg official website](https://www.ffmpeg.org/)
+* [Read and Write Video Frames in Python Using FFMPEG](http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/)
+* [Python bindings for FFmpeg - with complex filtering support](https://github.com/kkroening/ffmpeg-python)
