@@ -56,7 +56,7 @@
 * How to extract one **frame** of a video every **N** seconds to an image? 
 	* [A](https://superuser.com/questions/135117/how-to-extract-one-frame-of-a-video-every-n-seconds-to-an-image/729351): ffmpeg -i input.mov -r 0.25 output_%04d.png
 * How to **reduce** a video's size with ffmpeg?
-	* [A](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg):  ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
+	* [A](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg):  ffmpeg -i input.mp4 -vcodec libx265 -crf 40 output.mp4
 	* **[crf](https://trac.ffmpeg.org/wiki/Encode/H.265)**: Constant Rate Factor: Use this mode if you want to retain good visual quality and don't care about the exact bitrate or filesize of the encoded file.
 	* Test:
 	* input.mp4: 9.5MB <br><img src="https://i.imgur.com/Gsw4oGi.jpg" alt="input" width="150"/>
