@@ -64,6 +64,8 @@
 	* **34**: 4.3MB ~= 1/2 <br><img src="https://i.imgur.com/4EX1eTY.jpg" alt="34" width="150"/>
 	* **40**: 3.4MB ~= 1/3 <br><img src="https://i.imgur.com/UAlsjlG.jpeg" alt="40" width="150"/>
 	* **51**: 2.8MB ~= 1/4 <br><img src="https://i.imgur.com/PRZYj2V.jpg" alt="51" width="150"/>
+* How to burn subtitles into video?
+	* A: ffmpeg -i video.avi -vf subtitles=subtitle.srt out.avi 
  
 
 	
