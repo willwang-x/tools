@@ -66,6 +66,10 @@
 	* **51**: 2.8MB ~= 1/4 <br><img src="https://i.imgur.com/PRZYj2V.jpg" alt="51" width="150"/>
 * How to burn subtitles into video?
 	* A: ffmpeg -i video.avi -vf subtitles=subtitle.srt out.avi 
+* How to **speed** sreenshots?
+	* [A](https://www.nrg-media.de/2010/11/creating-screenshots-with-ffmpeg-is-slow/): Put the **-ss** parameter in front of the input file and FFmpeg skips to the selected frame almost instantly.
+
+
  
 
 	
@@ -81,3 +85,4 @@ Test：
 * [FFmpeg official website](https://www.ffmpeg.org/)
 * [Read and Write Video Frames in Python Using FFMPEG](http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/)
 * [Python bindings for FFmpeg - with complex filtering support](https://github.com/kkroening/ffmpeg-python)
+* [CREATING SCREENSHOTS WITH FFMPEG IS SLOW?](https://www.nrg-media.de/2010/11/creating-screenshots-with-ffmpeg-is-slow/)
