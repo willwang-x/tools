@@ -11,6 +11,22 @@ from [xkcd](https://xkcd.com/208/)
 - [ ] [Regular Expression Matching Can Be Simple And Fast,but..](https://swtch.com/~rsc/regexp/regexp1.html)
 
 
+## How 
+
+![cheatsheet](https://i.imgur.com/XgLoOt0.png)
+
+### MAKE 
+
+* [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python): search what you want **just in one glance** 
+* [JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24): Regular expresion **visulizer** 
+* [Learn regex the easy way](https://github.com/ziishaned/learn-regex): learning regex the easy way 
+* [regrexr](https://regexr.com/): Learn, build and **test** your Regular expression 
+* [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm): 我读的第一篇正则表达式文章
+* [二十个常用正则表达式](https://gist.github.com/willwang-x/dd7b961c2a7130b052b4fdc3f8ac6e26): 校验和提取
+
+
+
+
 ## Example 1:
 We can create a `list` in python. 
 
@@ -88,16 +104,4 @@ Output:
 Find: ^([\w ,=./]+\b)$
 Replace:  [ ] $1
 ```
-
-## The best place to learn  
-![](https://i.imgur.com/LiBnRGT.png)
-
-* [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python): search what you want **just in one glance** 
-* [JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24): Regular expresion **visulizer** 
-* [Learn regex the easy way](https://github.com/ziishaned/learn-regex): learning regex the easy way 
-* [regrexr](https://regexr.com/): Learn, build and **test** your Regular expression 
-* [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm): 我读的第一篇正则表达式文章
-* [二十个常用正则表达式](https://gist.github.com/willwang-x/dd7b961c2a7130b052b4fdc3f8ac6e26): 校验和提取
-
-![cheatsheet](https://i.imgur.com/XgLoOt0.png)
 
