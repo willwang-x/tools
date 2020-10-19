@@ -9,6 +9,12 @@
 * [Calendar View](https://toggl.com/blog/calendar-view-feature): 符合我对[时间之柜](https://willwang.cc/2020/02/time-cabinet)可视化的想象
 * 有一个高度维护的团队
 
+我对这个软件的期待：
+
+* **稳定便捷**：随时随地随处都可以记录我的时间
+* **提供洞见**：快速了解时间曲线，以便调整，e.g. weekly report, canlendar view, 事情时间[比例](https://i.imgur.com/NvHZEV7.png)？
+
+
 ## Features
 
 * Time-tracking: There's **more than one way** to track time
