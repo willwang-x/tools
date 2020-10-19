@@ -58,4 +58,5 @@ Anki can be summed up with two bullets:
 ### Term 
 
 * **block of time**: Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
+* **Understand**: 不要直接在anki中加入卡片，要不先进入review，或者github，再进入anki，避免未经理解就进入anki，导致复习时间太长，系统崩溃。即 point -> review -> github -> anki
 
