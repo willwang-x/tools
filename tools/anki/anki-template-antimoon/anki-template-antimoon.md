@@ -41,9 +41,11 @@ It is Good way to learn language by this template (by [老黄](https://www.laohu
 blockquote
 
 ``` html
-<blockquote>
-<span id="sentence">{{sentence}}</span>
-</blockquote>
+<div class="section sentence">
+<span id="expression">{{expression}}</span>
+<br><br>
+<blockquote><span id="sentence">{{sentence}}</span></blockquote>
+</div>
 ```
 
 ``` css
