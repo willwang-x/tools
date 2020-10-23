@@ -8,7 +8,7 @@
 
 > Includes Anki flashcards.
 
-既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。我大概喜欢的原因：
+推荐者众，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。一段时间后，总结一下喜欢的原因：
 
 * **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
 * **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
@@ -17,7 +17,7 @@
 
 ## How?
 
-Add的原则：
+如何拥有一个长久稳定优雅的使用体验？
 
 1. Keep Your Decks **Simple**
 1. First **Understand**, Then Memorize
@@ -57,6 +57,6 @@ Anki can be summed up with two bullets:
 
 ### Term 
 
-* **block of time**: Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
-* **Understand**: 不要直接在anki中加入卡片，要不先进入review，或者github，再进入anki，避免未经理解就进入anki，导致复习时间太长，系统崩溃。即 point -> review -> github -> anki
+* **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
+* **Understand**: 在进入Anki前，一个知识点的旅程是：point -> review -> github -> anki。通过流程来保证理解，避免加入未经理解的卡片过多，导致复习时间多长而奔溃。
 
