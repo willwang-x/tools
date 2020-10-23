@@ -36,67 +36,31 @@ It is Good way to learn language by this template (by [老黄](https://www.laohu
 
 * 结合FastWQ: 去获得词频和词根信息。
 
-## Code - 4.0 
+## Code
 
-### Front Template
+blockquote
 
-``` js
-<!-- to set card type -->
-<div id="cardtype" style='display:none'>{{Card}}</div>
-
-<!-- to hide collins if you want to get collins detail in front side -->
-{{#collins}}<div style='display:none'>{{collins}}</div>{{/collins}}
-
-<!-- front section -->
-<div class="section english" onclick="playAudio()">
-<a onclick="event.stopPropagation();" href="eudic://x-callback-url/searchword?word={{text:expression}}&x-success=anki://"><img class="icon" src="_eudict_24.png"></a>
-<span id="expression">{{expression}}</span>
-<span id="reading">{{reading}}</span>
-<span id="wordstar"></span>
-{{#audio}}
-<span id="audio" onclick="event.stopPropagation();">{{audio}}</span>
-{{/audio}}
-</div>
-
-{{#sentence}}
-<div class="section sentence"><span id="sentence">{{sentence}}</span></div>
-{{/sentence}}
-
-<!-- placehoder for audio tag -->
-<audio id="player" src=""></audio>
-
-<!-- script starts here -->
-<script type="text/javascript">
-initConfig();
-setWordHead();
-</script>
-
-
+``` html
+<blockquote>
+<span id="sentence">{{sentence}}</span>
+</blockquote>
 ```
 
-### Back Template
+``` css
+blockquote {
+padding: 10px 0 10px 15px;
+    margin: 0 5px 10px;
+    background: #f9f9f9;
+    border-left: 5px solid black;
+    /*margin: 1.5em 10px;*/
+    /*padding: 0.5em 10px;*/
+}
+```
+hightlight the expression
 
-``` js
-{{FrontSide}}
 
-<hr>
-
-<!-- back section -->
-{{#collins}}
-<div class="section collins"><span id="collins">{{collins}}</span></div>
-{{/collins}}
-
-{{#vocab}}
-<div class="section vocab"><span id="vocab">{{vocab}}</span></div>
-{{/vocab}}
-
-<div class="section chinese" onclick="showChinese('chinese')">
-<span id="chinese">{{glossary}}</span>
-</div>
-
-<!-- script starts here -->
-<script type="text/javascript">
-setDefinition();
-setChinese();
-</script>
+``` html
+<head>
+   <link href="_youdao.css" rel="stylesheet">
+</head>
 ```
