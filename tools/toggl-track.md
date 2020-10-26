@@ -1,5 +1,7 @@
 # Toggl Track 
 
+![weekly report in toggl](https://i.imgur.com/cxnEjvV.png)
+
 > Effortless time tracking and reporting - [toggl](https://toggl.com/track/features/)
 
 ## Why
@@ -32,9 +34,11 @@
 ## How
 
 - `@`: 以@为清晰定义[workflow](https://github.com/willwang-x/a-growing-cs/tree/master/workflow)，如`@anki`, 用于追踪习惯
+- Track time spent on the projects weekly
 
 ## Q&A
 
 * Background Tracking?
 * Integrations?
 * 如何写好一个条目？
+* Should I track everything or just work things?
