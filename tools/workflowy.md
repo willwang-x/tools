@@ -16,7 +16,7 @@
 
 ## What
 
-* 记录时间：采用Git commit的格式： [If applied, it will] ...
+* **记录**：采用Git commit的格式： [If applied, it will] ...
 
 ## More 
 
