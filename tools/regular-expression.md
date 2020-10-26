@@ -24,8 +24,19 @@ from [xkcd](https://xkcd.com/208/)
 * [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm): 我读的第一篇正则表达式文章
 * [二十个常用正则表达式](https://gist.github.com/willwang-x/dd7b961c2a7130b052b4fdc3f8ac6e26): 校验和提取
 
+### Use case 
 
+#### Choose all text
 
+```
+([^§]*)
+```
+
+#### Choose all punctuation 
+
+```
+"[.!?\\-]"
+```
 
 ## Example 1:
 We can create a `list` in python. 
