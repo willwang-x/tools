@@ -14,14 +14,14 @@
 
 As a work log:
 
-* 获得事件
+* 获得事件，定义目标
 * 列出步骤，细化到足够直观
 * 完成截图
 
 ## What
 
 * **事件**：事件最好从Things中获取，一个唯一获取入口，会减少大脑负担
-* **记录**：采用Git commit的格式： [If applied, it will] ...
+* **目标**：采用Git commit的格式： [If applied, it will] ...
 * **直观**：就是说执行时没有模糊的区域
 * **截图**：截图是为了交给review workflow，便于回顾总结
 
