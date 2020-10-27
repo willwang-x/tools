@@ -60,9 +60,16 @@ padding: 10px 0 10px 15px;
 ```
 hightlight the expression
 
-
 ``` html
 <head>
    <link href="_youdao.css" rel="stylesheet">
 </head>
+```
+
+eudic search on iPhone 
+
+``` html
+<a onclick="event.stopPropagation();" href="eudic://x-callback-url/searchword?word={{text:expression}}&x-success=anki://">
+<span id="expression">{{expression}}</span>
+</a>
 ```
