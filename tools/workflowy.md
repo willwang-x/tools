@@ -12,7 +12,7 @@
 
 ## How 
 
-As a work log:
+As a worklog:
 
 * 获得事件，定义目标
 * 列出步骤，细化到足够直观
@@ -24,6 +24,7 @@ As a work log:
 * **目标**：采用Git commit的格式： [If applied, it will] ...
 * **直观**：就是说执行时没有模糊的区域
 * **截图**：截图是为了交给review workflow，便于回顾总结
+* [worklog](https://workflowy.com/s/commit/BTm9ByU1cPthxttg): 做事过程的记录，以卸载大脑压力，保持专注，事后review以改善。
 
 ## More 
 

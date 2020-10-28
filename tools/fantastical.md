@@ -12,5 +12,5 @@
 ## How
 
 * [Adding Events](https://www.youtube.com/watch?v=EtnLPV62vcE&feature=emb_logo): 
-	* e.g. eventName with `sb.` Sat 1000 - 1100 at `someplace` `alarm` 30 `/which canledar`
+	* e.g. Meeting with `sb.` Sat 10:00am 60 at `someplace` `alarm` 30 `/which canledar`
 	* Mini window keyboard shortcut: `control + option + comand + F`
