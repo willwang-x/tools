@@ -6,15 +6,17 @@
 
 一个没有wiki的世界是多么可惜。说说我喜欢wiki的原因：
 
-* 信息质量高：Accuracy, Completeness, Relevancy, Validity, Timeliness, Consistency
-* 信息组织好：特别喜欢wiki做的领域地图
+* 信息**质量高**：Accuracy, Completeness, Relevancy, Validity, Timeliness, Consistency
+* 信息**组织好**：特别喜欢wiki做的领域地图
 * 多语种
 
 ## How
 
 凡是我都会从wiki查起。一些使用小姐：
 
-* 使用插件[wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=en-US): the world's leading Wikipedia reader for web and mobile.
-* 阅读wiki最后的部分：那里有**领域地图**和特别好的**参考资料**。
+* 使用[wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=en-US): 21世纪的阅读体验
+* 阅读wiki**最后的部分**：那里有**领域地图**和特别好的**参考资料**
+* 阅读**讨论页**：可以增加理解问题的角度
+* 了解**分类体系**：帮助了解知识的边界和地图
 
 
