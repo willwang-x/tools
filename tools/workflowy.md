@@ -26,6 +26,15 @@ As a worklog:
 * **截图**：截图是为了交给review workflow，便于回顾总结
 * [worklog](https://workflowy.com/s/commit/BTm9ByU1cPthxttg): 做事过程的记录，以卸载大脑压力，保持专注，事后review以改善。
 
+
+## FQAs
+
+#### Q: 如何利用 workflowy daily eamil report?
+
+A: Here are some I think of:
+
+* 了解是否改进优先级的地方。即定义优先级算法。
+
 ## More 
 
 * [最好的记忆载体是大脑，其次是workflowy](http://snip.ly/ahoo3#https://workflowy.com/invite/f05c925.emlx)
