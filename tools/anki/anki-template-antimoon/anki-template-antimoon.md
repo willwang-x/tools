@@ -31,7 +31,7 @@ Anki Template: Antimoon
 目标是使卡片，small & connected & meaningful。现在workflow是：
 
 * 获取表达：by ODH
-* 优化记忆
+* 优化记忆：根据词的**特点**，分类处理
 	* 修改key, e.g. straight -> straight up 
 	* 修改val，加粗核心解释
 	* 补充卡片，在add-dw加入1，如果觉得表达很重要
@@ -61,81 +61,5 @@ Antimoon的field：
 
 * FastWQ: 一个快速获取词典的含义的工具
 * Antimoon template：一个由[老黄](https://www.laohuang.net/20180108/antimoon-template-3/)开发的anki template。It provides a easy way to generate 2 types of cards: definition-word & word-definition.
+* 词的**特点**：词频，词性，词义是否唯一，是否是小词，语域标签。
 
-
-## Code
-
-Features
-
-* blockquote the sentence
-* style(underline) the expression
-* toggle chinese 
-
-
-
-#### blockquote
-
-``` html
-<div class="section sentence">
-<span id="expression">{{expression}}</span>
-<br><br>
-<blockquote><span id="sentence">{{sentence}}</span></blockquote>
-</div>
-```
-
-``` css
-blockquote {
-padding: 10px 0 10px 15px;
-    margin: 0 5px 10px;
-    background: #f9f9f9;
-    border-left: 5px solid black;
-    /*margin: 1.5em 10px;*/
-    /*padding: 0.5em 10px;*/
-}
-```
-#### hightlight the expression
-
-``` html
-<head>
-   <link href="_youdao.css" rel="stylesheet">
-</head>
-```
-
-#### eudic search on iPhone 
-
-``` html
-<a onclick="event.stopPropagation();" href="eudic://x-callback-url/searchword?word={{text:expression}}&x-success=anki://">
-<span id="expression">{{expression}}</span>
-</a>
-```
-
-#### [hide](https://i.imgur.com/1oSc40S.png)/[show](https://i.imgur.com/8pGOLqi.png) Chinese
- 
-``` html
-<div onclick="toggleTrans()">
-<span>{{glossary}}</span>
-</div>
-
-<!-- script starts here -->
-<script type="text/javascript">
-toggleTrans();
-</script>
-```
-
-``` javascript 
-function toggleTrans(){
-
-    var customized = []; //add your own css class here
-
-    var general = ['font[color]']
-    var ldoce4 = ['.L_DEC', '.L_CEX', '.L_DCH','b+b[style]','.L_CUK+font[style]'];
-    var collins = ['.explanation_box>.text_blue', '.explanation_item li>p+p','.vExplain_r li>p+p'];
-    var odh = ['.chn_tran', '.chn_sent'];
-
-    var transClass = customized.concat(general,ldoce4,collins,odh).join();
-
-    [].forEach.call(document.querySelectorAll(transClass), function(div) {
-        div.classList.toggle('hidden');
-    });
-}
-```
