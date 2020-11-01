@@ -8,6 +8,8 @@ Anki Template: Antimoon
   <br><br>
 </h1>
 
+> If you want to learn English well, you cannot rely on English classes. You have to take control of your learning. We’ll show you how to do it in a fun and effective way. [[antimoon](http://www.antimoon.com/)]
+
 
 ## Why
 
