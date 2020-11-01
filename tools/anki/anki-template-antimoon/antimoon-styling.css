@@ -1,0 +1,425 @@
+@import url("_editor_button_styles.css");
+
+</style>
+<!--
+Author  : LaoHuang
+Homepage: https://about.me/laohuang
+-->
+
+<style>
+
+/*global card style*/
+.card {
+  margin        : 8px;
+  font-family   : "Segoe UI", Helvetica, Arial, "Microsoft Yahei", Sans-serif;
+  font-size     : 18px;
+  text-align    : left;
+  color         : #1d2129;
+  background-color:#e9ebee;
+  background-attachment: fixed;
+}
+
+/* section global style */
+.section {
+  color: #414141;
+  background-color: #fffffd;
+  font-family:"Segoe UI", Arial, "Microsoft Yahei", sans-serif;
+  font-size: 16px;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.3),0 0px 0px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin: 8px 0;
+  padding           : 10px;
+  line-height       : 1.4em;
+  min-height        : 1.4em;
+}
+
+.english span,
+.chinese span{
+  vertical-align:middle;
+}
+.english{
+  padding-left:43px;
+}
+
+.vocab{
+  font-size:0.8em;
+  line-height: 1.2em;
+}
+
+.sentence{
+  border-left-color:rgba(229,57,53,0.8);
+}
+
+blockquote {
+padding: 10px 0 10px 15px;
+    margin: 0 5px 10px;
+    background: #f9f9f9;
+    border-left: 5px solid black;
+    /*margin: 1.5em 10px;*/
+    /*padding: 0.5em 10px;*/
+}
+
+
+/*.answer hr{
+  display:none;
+}*/
+
+hr{
+  border        : 1px;
+  margin        : 5px 0;
+  border-top : 1px solid #d5d5d5;
+}
+
+
+/* Tag highlight style */
+.hightlight{
+  font-weight:bold;
+  font-size         : 0.8em;
+  border-radius     : 5px;
+  color             : #fff;
+  padding           : 1px 4px;
+  margin-right      : 5px;
+  text-decoration   : none;
+  text-align        : center;
+}
+
+
+#collins .text_blue{
+  font-weight:bold;
+}
+
+#vocab i{
+  font-weight:bold;
+  font-style: normal;
+}
+
+.hd{
+  margin-right:10px;
+  font-weight:bold;
+}
+
+#expression{
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+#reading{
+  font-size   : 0.8em;
+  font-family : arial;
+  margin-right:5px;
+}
+
+#wordstar{
+  color:#fb0;
+}
+
+#audio img{
+  width   : 48px;
+  height  : 48px;
+  vertical-align:middle;
+}
+
+#chinese{
+  word-wrap:break-word;
+}
+
+.icon{
+  margin-left:-33px;
+  margin-right:5px;
+  border-radius: 5px;
+  vertical-align:middle;
+}
+
+.hidden{
+  display:none;
+}
+
+#expression, b {
+  color: #f12d79;
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+  &:hover {
+    background-size: 100% 88%;
+  }
+}
+
+</style>
+
+<script type="text/javascript">
+//全局初始化函数
+function initConfig(){
+    //定义是否用TTS发音，false:使用有道在线 true:使用移动设备TTS发音
+    window.isTTS = false;
+    //定义发音字段所在div的ID值
+    window.wordID = "expression"
+    //定义电脑端热键发音的键值
+    //初始键值 T:84 t:116
+    window.UPPERKEY = 84;
+    window.LOWERKEY = 116;
+    if (typeof window.HOTKEY == 'undefined' || window.HOTKEY == false){
+        window.HOTKEY = true;
+        window.addEventListener('keypress',setHotkey);
+    }
+}
+
+
+//帮助函数：移除整个HTML标签
+function removeTag(tag, node){
+    if (node == undefined) node = document;
+    var obj = node.querySelector(tag);
+    if(obj != undefined)
+        obj.outerHTML="";
+}
+
+//帮助函数：设置HTML标签内容
+function setTag(tag, html, node){
+    if (node == undefined) node = document;
+    var obj = node.querySelector(tag);
+    if(obj != undefined && html != "")
+        obj.innerHTML = html;
+}
+
+//帮助函数：提取HTML标签内容
+function getTag(tag, node){
+    if (node == undefined) node = document;
+    var obj = node.querySelector(tag);
+    if(obj != undefined){
+        return obj.innerHTML;
+    } else {
+        return "";
+    }
+}
+
+//帮助函数：镂空字段
+function makeCloze(){
+    //定义需要镂空的HTML元素
+    var clozeTags=[".section b",
+                   "#collins .text_blue",
+                   "#vocab .hd",
+                   "#vocab i"];
+
+    for (var j = 0; j < clozeTags.length; j++){
+        var obj = document.querySelectorAll(clozeTags[j]);
+        for (var i = 0; i < obj.length; i++){
+            obj[i].innerHTML = obj[i].innerHTML.replace(/./g,"&bull;");
+            obj[i].style.textDecoration = "underline";
+            obj[i].style.letterSpacing = "1px";
+        }
+    }
+
+}
+
+//预处理collins字段
+window.collins_chinese = "";
+function buildCollinsTexts(){
+    var collins_texts = "";
+    [].forEach.call(document.querySelectorAll("#collins .explanation_item"), function(node, index, nodes) {
+        collins_chinese += (index+1) + ". " + getTag(".explanation_box>.text_blue",node);
+	   collins_texts += (index+1) + ". " + buildCollinsText(node);
+        if (index < nodes.length-1){
+		   collins_chinese += "<br>";
+		   collins_texts += "<hr style='margin:15px 0;border:1px;border-top:1px dashed #000'>"
+	   }
+    });
+    return collins_texts;
+}
+
+function buildCollinsText(node){
+    //collins_chinese = getTag(".explanation_box>.text_blue",node);
+    var collins_label = getTag(".explanation_box>.explanation_label",node).replace(/.?\[(.+?)[\s|-].+/g,"$1").toLowerCase()+".";
+
+    removeTag(".item_number",node);
+    removeTag(".explanation_box .explanation_label",node);
+    removeTag(".explanation_box .text_blue",node);
+    removeTag(".explanation_box .seealso",node);
+    removeTag(".explanation_box span .word_gram",node);
+
+    var collins_english = getTag(".explanation_box",node);
+    var collins_sample = getTag(".explanation_item>ul>li>.sentence_en",node);
+    var collins_text = ""
+    if (collins_english != ""){
+        collins_text = collins_label + collins_english;
+        if (collins_sample != ""){
+            collins_text = collins_text + "<hr>" + collins_sample;
+        }
+    }
+    return collins_text;
+}
+
+//预处理vocab字段
+function buildVocabText(){
+    var vocab_definition = getTag(".firstdefinition");
+    var vocab_short = getTag(".short");
+    var vocab_long = getTag(".long");
+    var vocab_text = "";
+    if (vocab_definition != ""){
+        vocab_text = vocab_definition + "<hr>"  + vocab_short;
+        //检查卡片类型，如果是w-d卡，则显示vocab长解释
+        if (getTag("#cardtype") == "word-definition")
+            vocab_text = vocab_text +  "<hr>"  + vocab_long;
+    }
+    return vocab_text;
+}
+
+//设置并高亮collins和vocab字段
+function setDefinition(){
+    var collins_txt = buildCollinsTexts();
+    if (collins_txt!= ""){
+        setTag("#collins", collins_txt);
+    }
+
+    var vocab_txt = buildVocabText();
+    if (vocab_txt != ""){
+        setTag("#vocab", vocab_txt);
+    }
+
+    highlightTag("#collins");
+}
+
+//设置expression(word)字段
+function setWordHead(){
+    var collins_reading = getTag(".p1122");
+    var collins_star = getTag(".word_header_star");
+    setTag("#reading", collins_reading);
+    setTag("#wordstar", collins_star);
+}
+
+//设置glossary(chinese)字段
+function setChinese(){
+    //对简明英汉增强版做特殊处理
+    removeTag(".ctn .hwd");
+    removeTag(".ctn .hrz");
+    removeTag(".ctn .git");
+    removeTag(".ctn .gfm");
+
+    var odh_chinese = getTag('.chn_tran');
+    collins_chinese = collins_chinese || odh_chinese;
+    //如果有Collins词条中文，则额外提取并初始隐藏
+    if ( collins_chinese != ""){
+        setTag("#chinese",collins_chinese);
+        var div = document.getElementById("chinese");
+        if (div)
+            div.style.display='none';
+    }
+
+
+
+}
+
+//显示glossary(chinese)字段
+function showChinese(e){
+    //用于点击后显示中文区域
+    var box= document.getElementById(e);
+    if (box)
+        box.style.display='inline';
+}
+
+//帮助函数:iOS或者Android TTS发音
+function playTTS(word) {
+	var speech = new SpeechSynthesisUtterance();
+	speech.text = word;
+	speech.volume = 0.5; // 0 to 1
+	speech.rate = 1; // 0.1 to 9
+	speech.pitch = 1; // 0 to 2, 1=normal
+	speech.lang = "en-US";
+	speechSynthesis.cancel();
+	speechSynthesis.speak(speech);
+}
+
+//帮助函数：播放单词音频
+function playAudio() {
+    var word = document.getElementById(wordID).innerText;
+    var base = "http://dict.youdao.com/dictvoice?audio=";
+    //var base = "http://fanyi.baidu.com/gettts?lan=en&text=";
+    var audioSrc = base + encodeURI(word);
+    //检查是否为电脑端
+    if(typeof(py)=="object"){
+    //如果是电脑端，需安装插件 #498789867(replay button on card)才能发音
+        py.link("ankiplay"+audioSrc)
+    }else{
+        //移动设备(iOS 或者 Android)
+        if (isTTS == false) {
+            var player=document.getElementById('player')
+            player.src=audioSrc
+            player.play()
+        } else {
+            playTTS(word);
+        }
+    }
+}
+
+//帮助函数：设置音频播放热键 T/t
+function setHotkey(e){
+//alert(e.ctrlKey)
+    if(!e.ctrlKey &&(e.keyCode==window.UPPERKEY || e.keyCode==window.LOWERKEY)){
+        playAudio()
+    }
+}
+
+//帮助函数:词性高亮
+function highlightTag(section){
+    var colorMap = {
+        'n.':'#e3412f',
+        'a.':'#f8b002',
+        'adj.':'#f8b002',
+        'ad.':'#684b9d',
+        'adv.':'#684b9d',
+        'v.':'#539007',
+        'vi.':'#539007',
+        'vt.':'#539007',
+        'verb.':'#539007',
+        'phrasal.':'#04B7C9',
+        'phrase.':'#04B7C9',
+        'phr.':'#04B7C9',
+        'prep.':'#04B7C9',
+        'conj.':'#04B7C9',
+        'pron.':'#04B7C9',
+        'art.':'#04B7C9',
+        'num.':'#04B7C9',
+        'int.':'#04B7C9',
+        'interj.':'#04B7C9',
+        'modal.':'#04B7C9',
+        'aux.':'#04B7C9',
+        'pl.':'#D111D3',
+        'abbr.':'#D111D3',
+        'idiom.':'#D111D3',
+        'Fig.':'#D111D3',
+        'fig.':'#D111D3',
+        'quant.':'#D111D3'
+    };
+    [].forEach.call(document.querySelectorAll(section), function(div) {
+        div.innerHTML = div.innerHTML.replace(/\b[a-z]+\./g, function(symbol) {
+            if (colorMap[symbol]) {
+                return '<a class="hightlight" style="background-color:'
+                             + colorMap[symbol] + ';" >'+ symbol + '</a>';
+            } else {
+                return symbol;
+            }
+        });
+    });
+}
+
+function toggleTrans(){
+
+    var customized = []; //add your own css class here
+
+    var general = ['font[color]']
+    var ldoce4 = ['.L_DEC', '.L_CEX', '.L_DCH','b+b[style]','.L_CUK+font[style]'];
+    var collins = ['.explanation_box>.text_blue', '.explanation_item li>p+p','.vExplain_r li>p+p'];
+    var odh = ['.chn_tran', '.chn_sent'];
+
+    var transClass = customized.concat(general,ldoce4,collins,odh).join();
+
+    [].forEach.call(document.querySelectorAll(transClass), function(div) {
+        div.classList.toggle('hidden');
+    });
+}
+//初始化卡面变量为正面
+window.cardside = "front"
+</script>
+
+<style>
