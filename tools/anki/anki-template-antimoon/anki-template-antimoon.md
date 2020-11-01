@@ -73,3 +73,34 @@ eudic search on iPhone
 <span id="expression">{{expression}}</span>
 </a>
 ```
+
+[hide](https://i.imgur.com/1oSc40S.png)/[show](https://i.imgur.com/8pGOLqi.png) Chinese
+ 
+``` html
+<div onclick="toggleTrans()">
+<span>{{glossary}}</span>
+</div>
+
+<!-- script starts here -->
+<script type="text/javascript">
+toggleTrans();
+</script>
+```
+
+``` javascript 
+function toggleTrans(){
+
+    var customized = []; //add your own css class here
+
+    var general = ['font[color]']
+    var ldoce4 = ['.L_DEC', '.L_CEX', '.L_DCH','b+b[style]','.L_CUK+font[style]'];
+    var collins = ['.explanation_box>.text_blue', '.explanation_item li>p+p','.vExplain_r li>p+p'];
+    var odh = ['.chn_tran', '.chn_sent'];
+
+    var transClass = customized.concat(general,ldoce4,collins,odh).join();
+
+    [].forEach.call(document.querySelectorAll(transClass), function(div) {
+        div.classList.toggle('hidden');
+    });
+}
+```
