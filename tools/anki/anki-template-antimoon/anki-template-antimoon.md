@@ -1,17 +1,43 @@
-# Anki Template: Antimoon
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/List_of_data_structures">
+  <img src="https://i.imgur.com/DriXd2X.png" alt="antimoon template - 1.3" width=42%">
+  </a>
+  <br><br>
+Anki Template: Antimoon
+  <br><br>
+</h1>
 
-
-![ex-seductive](https://i.imgur.com/XkJ7T6t.png)
 
 ## Why
 
-It is Good way to learn language by this template (by [老黄](https://www.laohuang.net/20180108/antimoon-template-3/)). It provides a easy way to generate 2 types of cards: definition-word & word-definition.
+我对语言的记忆需求：
 
-* 特别喜欢definition-word: `___`的提醒，达到了**会与不会，瞬间抉择**的效果，即复习很快。
-* 列出在这里，便于修改成自己喜欢的样子。
+* **精准理解**别人的表达
+* **使用精准**的词汇表达
 
+现在发现的最好的anki template是Antimoon。喜欢的原因是：
+
+* 信息全面
+* 格式好看
+* 使用方便
+* evidence-based
+* 可以自定义
+
+## How
+
+目标是使卡片，small & connected & meaningful。现在workflow是：
+
+* 获取表达：by ODH
+* 优化记忆
+	* 修改key, e.g. straight -> straight up 
+	* 修改val，加粗核心解释
+	* 补充卡片，在add-dw加入1，如果觉得表达很重要
+	* 增加卡片，e.g. 增加词根lud in delude 
 
 ## What 
+
+Antimoon的field：
 
 * 单词 : expression [原划词助手字段] 
 * 音标 : reading [原划词助手字段]
@@ -24,21 +50,28 @@ It is Good way to learn language by this template (by [老黄](https://www.laohu
 * Vocab : vocab [Antimoon新增字段]
 * Antimoon标志：add-dw [Antimoon新增字段]
 
-## How
+想要了解：
 
-我需要的东西：
+* 词汇的重要性：词频
+* 词汇的常用表达：搭配
 
-* 单词词根：准确理解词语
-* 单词词频：知道常用含义是什么
+关键词：
 
+* FastWQ: 一个快速获取词典的含义的工具
+* Antimoon template：一个由[老黄](https://www.laohuang.net/20180108/antimoon-template-3/)开发的anki template。It provides a easy way to generate 2 types of cards: definition-word & word-definition.
 
-如何做：
-
-* 结合FastWQ: 去获得词频和词根信息。
 
 ## Code
 
-blockquote
+Features
+
+* blockquote the sentence
+* style(underline) the expression
+* toggle chinese 
+
+
+
+#### blockquote
 
 ``` html
 <div class="section sentence">
@@ -58,7 +91,7 @@ padding: 10px 0 10px 15px;
     /*padding: 0.5em 10px;*/
 }
 ```
-hightlight the expression
+#### hightlight the expression
 
 ``` html
 <head>
@@ -66,7 +99,7 @@ hightlight the expression
 </head>
 ```
 
-eudic search on iPhone 
+#### eudic search on iPhone 
 
 ``` html
 <a onclick="event.stopPropagation();" href="eudic://x-callback-url/searchword?word={{text:expression}}&x-success=anki://">
@@ -74,7 +107,7 @@ eudic search on iPhone
 </a>
 ```
 
-[hide](https://i.imgur.com/1oSc40S.png)/[show](https://i.imgur.com/8pGOLqi.png) Chinese
+#### [hide](https://i.imgur.com/1oSc40S.png)/[show](https://i.imgur.com/8pGOLqi.png) Chinese
  
 ``` html
 <div onclick="toggleTrans()">
