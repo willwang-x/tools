@@ -21,7 +21,7 @@
 
 ## How?
 
-> wiki -> github -> anki
+> wiki -> github -> review -> anki
 
 1. **定位**：在**Wiki**中定位知识点的位置，与已有知识体系连接。
 1. **连接**：在已有知识库搜索相关信息，如**Pocket**, 融合已有相关知识。
