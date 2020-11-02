@@ -32,16 +32,16 @@ Anki Template: Antimoon
 
 * 获取表达：by ODH
 * 优化记忆：根据词的**特点**，分类处理
-	* 修改key, e.g. straight -> straight up 
-	* 修改val，加粗核心解释
+	* 修改key，e.g. straight -> straight up
+	* 修改val，加粗核心解释，添加图片(世故词)
 	* 补充卡片，在add-dw加入1，如果觉得表达很重要
-	* 增加卡片，e.g. 增加词根lud in delude 
+	* 增加卡片，e.g. 增加词根lud in delude
 
-## What 
+## What
 
 Antimoon的field：
 
-* 单词 : expression [原划词助手字段] 
+* 单词 : expression [原划词助手字段]
 * 音标 : reading [原划词助手字段]
 * 释义 : glossary [原划词助手字段]
 * 句子 : sentence [原划词助手字段]
@@ -55,11 +55,14 @@ Antimoon的field：
 想要了解：
 
 * 词汇的重要性：词频
-* 词汇的常用表达：搭配
+* 词汇常用表达：搭配
 
 关键词：
 
 * FastWQ: 一个快速获取词典的含义的工具
 * Antimoon template：一个由[老黄](https://www.laohuang.net/20180108/antimoon-template-3/)开发的anki template。It provides a easy way to generate 2 types of cards: definition-word & word-definition.
-* 词的**特点**：词频，词性，词义是否唯一，是否是小词，语域标签。
-
+* 词的**特点**：
+	* 词频：是否是[小词](https://github.com/willwang-x/lexical-item-database/blob/main/850-ogden-basic-english.txt)
+	* 词性：介词 > 单纯型动词 > 抽象名词 > 单纯型形容词 > ...
+	* 词义：是否唯一
+	* 语域标签：使用场景，正式？
