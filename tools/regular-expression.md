@@ -38,7 +38,20 @@ from [xkcd](https://xkcd.com/208/)
 "[.!?\\-]"
 ```
 
+#### 中文 
+
+```
+[^\x00-\xff]+
+```
+
+#### the part between A & B
+
+```
+A.*?B
+```
+
 ## Example 1:
+
 We can create a `list` in python. 
 
 ```
