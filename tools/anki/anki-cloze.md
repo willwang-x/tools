@@ -1,5 +1,8 @@
 # Anki Cloze
 
+![anki cloze template example](https://i.imgur.com/2SgReIj.png)
+
+
 > ‘Cloze deletion’ is the process of hiding one or more words in a sentence. 
 
 

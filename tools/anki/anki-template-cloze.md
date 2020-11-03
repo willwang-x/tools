@@ -1,5 +1,6 @@
 # Anki template for cloze card 
 
+![anki cloze template example](https://i.imgur.com/2SgReIj.png)
 
 ## Why 
 
