@@ -16,6 +16,14 @@
 1. Getting Started
 1. Studying
 1. Adding/Editing
+	* Adding Cards and Notes
+	* Adding a Note Type
+	* Customizing Fields
+	* Changing Deck / Note Type
+	* Using Decks Appropriately
+	* Features
+	* Cloze Deletion
+	* Inputting Foreign Character 
 1. Card Templates
 1. Preferences
 1. Deck Options
@@ -36,3 +44,5 @@
 1. Contributing
 1. FAQs
 1. Resources
+
+
