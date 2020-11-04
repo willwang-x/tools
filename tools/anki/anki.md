@@ -77,4 +77,4 @@ A：一个字：贪。
 * 贪量多，什么都往Anki里放，导致有时候不知道为什么需要知道，导致系统崩溃。
 * 贪速度，一张卡片放太多东西，导致复习时间太长，导致复习崩溃。
 
-所以，首先要meaningful，其次connected，最好要small。付诸流程就是，从wiki到github到anki。
+所以，首先要meaningful，其次connected，最后要small。付诸流程就是，从wiki到github到anki。
