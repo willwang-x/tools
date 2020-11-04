@@ -16,7 +16,7 @@ Anki
 
 ## Why?
 
-从大一开始接触Anki，在弃疗和捡起反复摇摆之后，现在成为了终身爱好者 <sup>hopefully</sup>。从需要，喜欢，和适合三个方面来说说为什么：
+大一开始接触Anki，在弃疗和捡起反复摇摆之后，成为了终身爱好者 <sup>hopefully</sup>。三个方面来说说为什么：
 
 * **需要**：生活本质上是一个认知处理过程，好的生活来自好的认知，好的认知的基础之一则是好的记忆。而Anki正是那块**记忆面包**。
 * **喜欢**：在记忆面包类[软件](https://www.wikiwand.com/en/List_of_flashcard_software)中，Anki 核心稳定，扩展繁荣。全平台支持，高度自定义，击中了我的[工具观](https://willwang.cc/2019/03/tools)。
