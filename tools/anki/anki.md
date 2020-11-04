@@ -16,7 +16,7 @@ Anki
 
 ## Why?
 
-从大一开始接触Anki，在惊喜和弃疗反复摇摆之后，现在成为了一个终身爱好者 <sup>hopefully</sup>。从需要，喜欢，和适合三个方面来说说为什么：
+从大一开始接触Anki，在弃疗和捡起反复摇摆之后，现在成为了终身爱好者 <sup>hopefully</sup>。从需要，喜欢，和适合三个方面来说说为什么：
 
 * **需要**：生活本质上是一个认知处理过程，好的生活来自好的认知，好的认知的基础之一则是好的记忆。而Anki正是那块**记忆面包**。
 * **喜欢**：在记忆面包类[软件](https://www.wikiwand.com/en/List_of_flashcard_software)中，Anki 核心稳定，扩展繁荣。全平台支持，高度自定义，击中了我的[工具观](https://willwang.cc/2019/03/tools)。
@@ -48,7 +48,7 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to **recall** the correct answer.
 - **Scheduling**: Based on how **difficult** or easy it was to recall the answer to the question, Anki determines the best amount of **time** to wait before asking you the same question again, thereby strengthening the **memory** at just the right moment. 
 
-### Term 
+### Terms
 
 * **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
 * **Understand**: 在进入Anki前，一个知识点的旅程是：point -> review -> github -> anki。通过流程来保证理解，避免加入未经理解的卡片过多，导致复习时间多长而奔溃。
