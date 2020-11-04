@@ -35,7 +35,7 @@ Anki
 1. Follow the **Minimum** Information Principle
 1. **Cloze** Deletions Are Your Best Friend
 1. Use **Images**, Photos, & Figures
-1. Schedule a **block** of time for Anki (In test...)
+1. Schedule a **block** of time for Anki (testing...)
 
 
 ## What?
@@ -50,11 +50,13 @@ Anki can be summed up with two bullets:
 
 ### Terms
 
-* **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
+* **Simple**: 与Github笔记相映射。 e.g. [cornerstone](https://i.imgur.com/ZHjgheG.png)
 * **Understand**: 在进入Anki前，一个知识点的旅程是：point -> review -> github -> anki。通过流程来保证理解，避免加入未经理解的卡片过多，导致复习时间多长而奔溃。
+* **Foundations**: 先地图，再有细节。 e.g. [OS](https://i.imgur.com/xYRomf6.png)
 * **记住**：构建`{key: val}`知识库，实现`O(1)`时间的读取知识。
 * **Review**: 复习现有的Anki card，遇到疑惑记录(截图？)在册，避免中断。一个原则：小于半分钟的处理，可以立刻执行。
 * **Add**: 将记录的疑惑处理，或者放入第二天的review中处理，避免影响之后的安排。
+* **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
 
 
 ## FAQs
