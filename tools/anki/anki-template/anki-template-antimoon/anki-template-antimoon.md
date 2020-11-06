@@ -41,31 +41,32 @@ Anki Template: Antimoon
 
 Antimoon的field：
 
-* 单词 : expression e.g medication
-* 排行 : rank e.g. 2145
-* 含义比重 : meaning-freq e.g. 药物(76%)
-* 含义位置 : meaning-position e.g. 1/3
-* 词频 : freq e.g. 药物(76%)，药物治疗(22%)，医药(2%)
-* 词根 : root
-* 故事 : story 用故事解释
-* 核心连接 : connection e.g. set - POSITION
-* 家族 : word-family 
-* 同义 : synonym
-* 反义 : opposite
-* 音标 : reading 
-* 简明解释 : concise
-* 搭配 : collocation
-* 语法 : grammar
-* 误用 : common errors
-* 隐喻 : metaphor
-* 释义 : glossary 
-* 句子 : sentence 
-* 笔记 : note 
-* 网址 : url 
-* 音频 : audio 
-* 柯林斯: collins 
-* Vocab : vocab 
-* Antimoon标志：add-dw 
+1. 单词 : expression e.g medication
+1. 排行 : rank e.g. 2145
+1. 含义比重 : meaning-freq e.g. 药物(76%)
+1. 含义位置 : meaning-position e.g. 1/3
+1. 词频 : freq e.g. 药物(76%)，药物治疗(22%)，医药(2%)
+1. 词根 : root
+1. 故事 : story 用故事解释
+1. 核心连接 : connection e.g. set - POSITION
+1. 家族 : word-family 
+1. 同义 : synonym
+1. 反义 : opposite
+1. 音标 : reading 
+1. 简明解释 : concise
+1. 搭配 : collocation
+1. 语法 : grammar
+1. 误用 : common errors
+1. 隐喻 : metaphor
+2. 图片 : image
+1. 释义 : glossary 
+1. 句子 : sentence 
+1. 笔记 : note 
+1. 网址 : url 
+1. 音频 : audio 
+1. 柯林斯: collins 
+1. Vocab : vocab 
+1. Antimoon标志：add-dw 
 
 
 想要了解：
