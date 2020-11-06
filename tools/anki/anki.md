@@ -37,6 +37,11 @@ Anki
 1. Use **Images**, Photos, & Figures
 1. Schedule a **block** of time for Anki (testing...)
 
+如何高效完成每一次的Anki？
+
+* 完成：复习完今日任务
+* 记录：记录中间过程遇到的想法
+* 完善：排序想法，逐一完成。
 
 ## What?
 
@@ -57,6 +62,9 @@ Anki can be summed up with two bullets:
 * **Review**: 复习现有的Anki card，遇到疑惑记录(截图？)在册，避免中断。一个原则：小于半分钟的处理，可以立刻执行。
 * **Add**: 将记录的疑惑处理，或者放入第二天的review中处理，避免影响之后的安排。
 * **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
+* **记录**：截屏给review环节做，或者很重要。在workflowy中记录下来，以git commit的要求记录。保证Anki卡片 - github - wiki 三位一体。
+	* e.g. 卡片命名：note-name, section name, detail. e.g. Prefrontal Cortex, What? Analogy of 5 functions 
+* **排序**：系统优化，大于知识细节更新。 e.g. 更新知识的feild，大于定义一个新知识
 
 
 ## FAQs
