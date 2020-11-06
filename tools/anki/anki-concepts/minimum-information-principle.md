@@ -4,6 +4,8 @@
 <img src="https://i.imgur.com/NSBhrOn.png" alt="Minimum Information Principle" width="250">
 </center>
 
+> minimum information principle says that simple elements formulated for **active recall** bring much better learning results than complex elements even though one complex element may be equivalent to a large number of simpler elements. [[supermemopedia](https://supermemopedia.com/wiki/Minimum_information_principle)]
+
 ## Why 
 
 Minimum information principle says that **simple questions** formulated for  **active recall** in learning bring much **better** memory outcomes than complex questions even though one complex question may be equivalent to a large number of **simpler questions**.
@@ -36,6 +38,13 @@ A: 70 km
 
 ...
 ```
+
+## What 
+
+Minimum information principle says that simple questions formulated for **active recall** in learning bring much **better** memory outcomes than complex questions even though one complex question may be equivalent to a large number of simpler questions.
+
+* It's easier for you to retain immediately in **one** attempt.
+* It allows the flashcard software to schedule cards in an **optimal** way.
 
 ## More 
 
