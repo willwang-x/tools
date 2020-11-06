@@ -2,7 +2,7 @@
 
 > Query words definitions or examples etc. from local or web dictionaries to fill into Anki cards.
 > 
-> -- [github](https://sth2018.github.io/FastWordQuery/)
+> [[github](https://sth2018.github.io/FastWordQuery/)]
 
 
 ## Why
