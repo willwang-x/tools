@@ -25,6 +25,7 @@ As a worklog:
 * **直观**：就是说执行时没有模糊的区域
 * **截图**：截图是为了交给review workflow，便于回顾总结
 * [worklog](https://workflowy.com/s/commit/BTm9ByU1cPthxttg): 做事过程的记录，以卸载大脑压力，保持专注，事后review以改善。
+* **template**: workflowy的功能帮助你完成重复事情的模版。
 
 
 ## FQAs
