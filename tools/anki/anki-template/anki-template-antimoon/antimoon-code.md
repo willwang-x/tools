@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/List_of_data_structures">
-  <img src="https://i.imgur.com/DriXd2X.png" alt="antimoon template - 1.3" width=42%">
+  <img src="https://i.imgur.com/mhnN0Bk.png" alt="antimoon template - 1.5" width=42%">
   </a>
   <br><br>
 Anki Template: Antimoon Code
@@ -17,6 +17,8 @@ Features
 * blockquote the sentence
 * style(underline) the expression
 * toggle chinese 
+* Add flow effect
+* Add rank & freq
 
 
 
