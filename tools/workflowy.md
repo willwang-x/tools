@@ -16,6 +16,7 @@ Workflowy
 
 * 配套 Toggl (Track) 和 Things (to-do)， 作为 Doing 的细节记录工具
 * 用于写作的工作，因为便于修改和沉浸
+* 同时可以作为weekly review的工具
 
 ## How 
 
@@ -33,6 +34,7 @@ As a worklog:
 * **截图**：截图是为了交给review workflow，便于回顾总结
 * [worklog](https://workflowy.com/s/commit/BTm9ByU1cPthxttg): 做事过程的记录，以卸载大脑压力，保持专注，事后review以改善。
 * **template**: workflowy的功能帮助你完成重复事情的模版。
+* [WOOP](https://woopmylife.org/en/home)：Wish，Outcome，Obstacle，Plan 或许可以一件事情的模版。
 
 
 ## FQAs
