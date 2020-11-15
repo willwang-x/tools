@@ -4,7 +4,15 @@
 
 ## Why 
 
-* 自动化检测睡眠，显示睡眠质量，来帮助提供睡眠质量，和对新的一天工作提供参考。
+> One of the best apps ever - [user](https://apps.apple.com/hk/app/autosleep-track-sleep-on-watch/id1164801111)
+
+想要自动化检测睡眠，显示睡眠质量，来帮助提供睡眠质量，和对新的一天工作提供参考。Why autosleep?
+
+* **No buttons**. Just sleep
+* **Instant feedback**: Sleep rings give instant feedback on how you slept
+* **Sleep bank**: Track your sleep credit or debt. 
+* **Analysis & history**: Monitor your sleep consistency.
+* **Readiness**: Insights into your physical & mental state 
 
 ## How 
 
