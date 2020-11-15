@@ -17,6 +17,7 @@ Workflowy
 * 配套 Toggl (Track) 和 Things (to-do)， 作为 Doing 的细节记录工具
 * 用于写作的工作，因为便于修改和沉浸
 * 同时可以作为weekly review的工具
+* 可以作为一个在线高速读写的数据库, e.g. [{The AND}](https://workflowy.com/s/the-and/kigVaF6WsXxDH1uG)
 
 ## How 
 
