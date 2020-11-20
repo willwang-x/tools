@@ -36,6 +36,17 @@
 	* Cloze Deletion
 	* Inputting Foreign Character 
 1. Card Templates
+	* Field Replacements
+	* Card Generation
+		* Reverse Cards
+		* Card Generation & Deletion
+		* Selective Card Generation
+		* Conditional Replacement
+		* Blank Back Sides
+		* Limitations in Older Anki Versions
+		* Adding Empty Notes
+		* Cloze Templates
+	* Styling & HTML  
 1. Preferences
 1. Deck Options
 1. Syncing with AnkiWeb
