@@ -15,6 +15,17 @@
 1. Background
 1. Getting Started
 1. Studying
+	* Decks
+	* Study Overview
+	* Questions
+	* Learning
+	* Reviewing
+	* Due Counts
+	* Editing and More
+	* Display Order
+	* Siblings and Burying
+	* Keyboard Shortcuts
+	* Falling Behind
 1. Adding/Editing
 	* Adding Cards and Notes
 	* Adding a Note Type
