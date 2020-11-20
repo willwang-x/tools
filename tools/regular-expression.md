@@ -50,6 +50,12 @@ from [xkcd](https://xkcd.com/208/)
 A.*?B
 ```
 
+### timestamp
+
+```
+\d+\n\d+:\d+:\d+,\d+\d --> \d+:\d+:\d+,\d+
+```
+
 ## Example 1:
 
 We can create a `list` in python. 
