@@ -30,29 +30,11 @@ Git是程序员的强力工具，早日掌握早日受用。
 
 ### overview
 
-Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development.[8]. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+Git is a **distributed version-control system** for tracking **changes** in any set of files, originally designed for **coordinating** work among programmers cooperating on source code during software development. Its goals include **speed**, **data integrity**, and support for distributed, non-linear workflows.
 
 ### history
  
 Git was created by **Linus Torvalds** in **2005** for development of the Linux kernel, with other kernel developers contributing to its initial development. Since 2005, **Junio Hamano** has been the core maintainer. As with most other distributed version-control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server. Git is free and open-source software distributed under GNU General Public License Version 2.
-
-### example 
-
-```
-git push -u origin master
-```
-
-- **`git push [variable name] [branch]`**: to send the branch commits to your remote repository.
-- [**origin**](https://www.git-tower.com/learn/git/glossary/origin#:~:text=In%20Git%2C%20%22origin%22%20is,but%20just%20a%20standard%20convention.): a shorthand name for the remote **repository** that a project was originally cloned from.  
-	- 	- **`<remote>`** can be the name of a configured remote or a full URL to a remote git repository. 
-	-  = *git push -u https://github.com/willwang-x/cs-cornerstone master*
-- **master**: stands for the main branch
-- **`-u`**: The **-u** tells Git to remember the parameters, so that next time we can simply run `git push` and Git will know what to do.
-- **[upstream](https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean)**: would refer to the main repo that other people will be pulling from, e.g. your GitHub repo. 
-	- [check upstream](https://higoge.github.io/2015/07/06/git-remote03/):
-	- [`cat .git/config`](https://i.imgur.com/NSURctB.png): [remote "origin"] url = https://github.com/willwang-x/cs-cornerstone 
-	- [`git remote show origin`](https://i.imgur.com/dPf0499.png): Push  URL: https://github.com/willwang-x/cs-cornerstone
-
 
 ## FAQs
 
@@ -65,3 +47,19 @@ git push -u origin master
 * staging helps when a merge has conflicts
 * staging helps you keep extra local files hanging around
 * staging helps you sneak in small changes ;-)
+
+
+#### Q: What is the meaning of `git push -u origin master`?
+
+A: 
+
+- **`git push [variable name] [branch]`**: to send the branch commits to your remote repository.
+- [**origin**](https://www.git-tower.com/learn/git/glossary/origin#:~:text=In%20Git%2C%20%22origin%22%20is,but%20just%20a%20standard%20convention.): a shorthand name for the remote **repository** that a project was originally cloned from.  
+	- 	- **`<remote>`** can be the name of a configured remote or a full URL to a remote git repository. 
+	-  = *git push -u https://github.com/willwang-x/cs-cornerstone master*
+- **master**: stands for the main branch
+- **`-u`**: The **-u** tells Git to remember the parameters, so that next time we can simply run `git push` and Git will know what to do.
+- **[upstream](https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean)**: would refer to the main repo that other people will be pulling from, e.g. your GitHub repo. 
+	- [check upstream](https://higoge.github.io/2015/07/06/git-remote03/):
+	- [`cat .git/config`](https://i.imgur.com/NSURctB.png): [remote "origin"] url = https://github.com/willwang-x/cs-cornerstone 
+	- [`git remote show origin`](https://i.imgur.com/dPf0499.png): Push  URL: https://github.com/willwang-x/cs-cornerstone
