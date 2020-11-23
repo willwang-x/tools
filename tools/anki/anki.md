@@ -88,3 +88,16 @@ A：一个字：贪。
 * 贪速度，一张卡片放太多东西，导致复习时间太长，导致复习崩溃。
 
 所以，首先要meaningful，其次connected，最后要small。付诸流程就是，从wiki到github到anki。
+
+
+#### Q: 如何排序你的「记录」？
+
+A: 通过动词，以下为任务优先级排序：
+
+1. **Optimize**：优化workflow
+1. **Map**：增加一个领域地图
+1. **Standardize**：标准已有的笔记
+1. **Define**：定义一个新的知识
+1. **Update**：对已有知识某个部分更新
+
+优先处理「Optimize」和「Map」，有时间再完成后面。
