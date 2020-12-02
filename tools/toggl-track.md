@@ -1,44 +1,47 @@
-# Toggl Track 
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Toggl_Track">
+  <img src="https://i.imgur.com/cxnEjvV.png" alt="intuitive image or map" width=42%">
+  </a>
+  <br><br>
+Toggl-Track: 如何记录时间？
+  <br><br>
+</h1>
 
-![weekly report in toggl](https://i.imgur.com/cxnEjvV.png)
+> Toggl Track (formerly Toggl) is a time tracking app operated by Toggl OÜ, that offers online time tracking and reporting services through their website along with mobile and desktop applications. [[wiki](https://www.wikiwand.com/en/Toggl_Track)]
 
-> Effortless time tracking and reporting - [toggl](https://toggl.com/track/features/)
+## Why 
 
-## Why
+受《[奇特的一生](https://book.douban.com/review/9866948/)》的影响，需要一个[time tracking app](https://www.wikiwand.com/en/Time-tracking_software)，受另一个柳比歇夫[爱好者](https://github.com/yaobinwen/robin_on_rails)推荐，开始了Toggl Track。对这个软件的期待：
 
-* 全平台：Mac, Chrome, IOS
-* One-Click Timers
-* [Calendar View](https://toggl.com/blog/calendar-view-feature): 符合我对[时间之柜](https://willwang.cc/2020/02/time-cabinet)可视化的想象
-* 有一个高度维护的团队
-
-我对这个软件的期待：
-
-* **稳定便捷**：随时随地随处都可以记录我的时间
-* **提供洞见**：快速了解时间曲线，以便调整，e.g. weekly report, canlendar view, 事情时间[比例](https://i.imgur.com/NvHZEV7.png)？
-
-
-## Features
-
-* Time-tracking: There's **more than one way** to track time
-	* One-Click Timers
-	* Background Tracking
-	* **[Calendar](https://support.toggl.com/en/articles/3924052-tracking-time-in-toggl-track-calendar)** Integration
-		* Each time entry is shown as a **colored** block (using selected **project** colors) on the calendar 
-	* Autotracker
-* Reporting: Powerful reporting to reveal **actionable** insights
-	* Summary, Detailed, & Weekly Reports
-	* Saved Reports
-	* Schedule Reports to Email
-	* Time Rounding
+* **稳定便捷**：随时随地随处都可以记录时间，e.g. One-Click Timers
+* **提供洞见**：快速了解时间曲线，以便调整，e.g. [Calendar View](https://toggl.com/blog/calendar-view-feature)
 
 ## How
 
-- `@`: 以@为清晰定义[workflow](https://github.com/willwang-x/a-growing-cs/tree/master/workflow)，如`@anki`, 用于追踪习惯
-- Track time spent on the projects weekly
+* **记录**：记录**所有**时间 by Apps.
+* **查看**：查看时间**使用** by Charts.
+* **更新**：优化时间分配和**工具**。
 
-## Q&A
+## What 
 
-* Background Tracking?
-* Integrations?
-* 如何写好一个条目？
-* Should I track everything or just work things?
+* **Apps**: TogglDesktop(Mac)，Toggl Track(iOS).
+* **charts**: timery, **calendar**, reports
+* [Calendar](https://toggl.com/blog/calendar-view-feature): 符合我对[时间之柜](https://willwang.cc/2020/02/time-cabinet)可视化的想象
+
+
+## FAQs
+
+#### Q: 一个time entry包括那些信息？
+
+A: 4个方面：
+
+| key🔑 | why | what | how | example |
+| :-------- | :---------: | :----------: | :---------: |  :---------: |
+| Entry | What | Action | like git message | Standardize toggl-track.md |
+| Project | How | Goal | 具体简单可测  | github repository, e.g. workflow? |
+| Client | Why | Need | 抽象 | life-keyword, e.g. wisdom |
+| Tag | Who | Helper | App & People | anki |
+
+
+
