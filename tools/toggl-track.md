@@ -38,10 +38,10 @@ A: 4个方面：
 
 | key🔑 | why | what | how | example |
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
-| Entry | What | Action | like git message | Standardize toggl-track.md |
-| Project | How | Goal | 具体简单可测  | github repository, e.g. workflow? |
-| Client | Why | Need | 抽象 | life-keyword, e.g. wisdom |
-| Tag | Who | Helper | App & People | anki |
+| Entry | What | **Plan** | like git message | Standardize toggl-track.md |
+| Project | How | **Outcome** | 具体简单可测  | github repository, e.g. workflow |
+| Client | Why | **Wish** | 抽象 | life-keyword, e.g. wisdom |
+| Tag | Who | **Helper** to remove **obstacles** | App & People | a-Anki, p-Name |
 
 
 
