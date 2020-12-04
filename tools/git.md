@@ -63,3 +63,18 @@ A:
 	- [check upstream](https://higoge.github.io/2015/07/06/git-remote03/):
 	- [`cat .git/config`](https://i.imgur.com/NSURctB.png): [remote "origin"] url = https://github.com/willwang-x/cs-cornerstone 
 	- [`git remote show origin`](https://i.imgur.com/dPf0499.png): Push  URL: https://github.com/willwang-x/cs-cornerstone
+
+	
+#### Q: What is a great Git commit message?
+
+[A](https://chris.beams.io/posts/git-commit/#seven-rules): 7 rules of a great Git commit message:
+
+1. **Separate** **subject** from **body** with a blank line
+1. Limit the **subject** line to **50** characters
+1. **Capitalize** the subject line
+1. Do **not end** the subject line with a **period**
+1. Use the **imperative** mood in the subject line
+1. Wrap the body at **72** characters
+1. Use the **body** to explain **what** and **why** vs. **how**
+
+
