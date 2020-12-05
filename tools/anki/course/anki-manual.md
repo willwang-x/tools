@@ -45,7 +45,7 @@
 		* Blank Back Sides
 		* Limitations in Older Anki Versions
 		* Adding Empty Notes
-		* Cloze Templates
+		* **Cloze Templates**
 	* Styling & HTML  
 1. Preferences
 1. Deck Options
