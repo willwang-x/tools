@@ -45,7 +45,7 @@ AwesomeTTS makes it easy for language-learners and other students to add speech 
 
 A: `cloze-only`:
 
-```
+``` css
 {{tts en_US voices=AwesomeTTS:cloze-only:Text}}
 ```
 
