@@ -1,6 +1,12 @@
-# Airpods Pro
-
-![Airpods Control](https://i.imgur.com/ch6amAt.png)
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/AirPods_Pro">
+  <img src="https://i.imgur.com/VBA40BF.jpeg" alt="Airpods Control" width=42%">
+  </a>
+  <br><br>
+Airpods Pro 
+  <br><br>
+</h1>
 
 ## Why
 
@@ -9,13 +15,30 @@
 
 ## How 
 
+<a href="https://www.wikiwand.com/en/AirPods_Pro">
+<img src="https://i.imgur.com/ch6amAt.png" alt="Airpods Control" width=72%">
+</a>
+
 * Press once 
 * Press twice 
 * Press three times 
 * **Press and hold Airpods**
 * Find your earpods by App 「Find my」
 
+More **Setting**:
+
+Go to **Settings > Bluetooth > [Your AirPods info icon]**
+
 ## What
+
+### Overview
+
+AirPods Pro are wireless Bluetooth earbuds created by Apple, initially released on October 30, 2019. They are Apple's higher-end wireless earbuds, sold alongside AirPods.
+
+AirPods Pro use the same H1 chip found in second generation AirPods, but add **active noise cancellation**, **transparency mode**, automated **frequency profile** setting, IPX4 water resistance, a charging case with wireless charging, and interchangeable silicone tips.
+
+
+### Features
 
 * **Noise Control**:
 	* **Noise Cancellation**: blocks **virtually** all **background noise** so you can **fully** hear the audio from your AirPods Pro. This might be a good mode for a **gym** or other environment with **loud** noises around you.
