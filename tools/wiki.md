@@ -1,4 +1,12 @@
-# Wiki
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Wikipedia#/External_links">
+  <img src="https://i.imgur.com/SElduS4.png" alt="Wiki" width=42%">
+  </a>
+  <br><br>
+Wiki 
+  <br><br>
+</h1>
 
 > A wiki (/ˈwɪki/ (About this soundlisten) WIK-ee) is **a hypertext publication collaboratively edited** and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its **internal knowledge base**. [[wiki](https://www.wikiwand.com/en/Wiki)]
 
@@ -24,3 +32,11 @@
 
 * [领域地图](https://i.imgur.com/joEJJWs.png)：快速了解一个领域关键概念
 * List of 系列
+
+## FQAs
+
+#### Q: How to use wikipedia? 
+
+A: Here are tips: 
+
+* [Wikipedia:Help desk](https://www.wikiwand.com/en/Wikipedia:Help_desk): The Wikipedia help desk is a place where you can ask questions about how to **use or edit Wikipedia**. For other types of questions, use the search box or the reference desk.
