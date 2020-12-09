@@ -20,7 +20,7 @@ Wiki
 
 ## How
 
-凡是我都会从wiki查起。一些使用小姐：
+凡是从wiki查起，Some Tips：
 
 * 使用[wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=en-US): 21世纪的阅读体验
 * 阅读wiki**最后的部分**：那里有**领域地图**和特别好的**参考资料**
