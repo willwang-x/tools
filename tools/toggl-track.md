@@ -44,4 +44,6 @@ A: 4个方面：
 | Tag | Who | **Helper** to remove **obstacles** | App & People | a-Anki, p-Name |
 
 
+#### Q: 如何更好的记录时间？
 
+A: 可以通分段计时，比如morning-routine在出门前，结束，再开始，来统计达到workpalce需要多少时间。
