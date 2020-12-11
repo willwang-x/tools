@@ -15,7 +15,7 @@ Things
 
 ## Why 
 
-* Omnifocus对我来说有点重，感觉Things很轻巧，有minimalism的感觉。所以转过来尝试以一下。
+Omnifocus(2013-2020)对我来说有点重，感觉Things很轻巧，有minimalism的感觉。所以转过来尝试以一下。
 
 我对[GTD](https://www.wikiwand.com/en/Getting_Things_Done)工具的要求：
 
@@ -41,4 +41,4 @@ Things
 
 #### Q: Things on Apple Watch cannot connect things cloud?
 
-A: 
+A: [Troubleshooting Things on Apple Watch](https://culturedcode.com/things/support/articles/4481378/): It worked until I try 「Perform advanced troubleshooting」
