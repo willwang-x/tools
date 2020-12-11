@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Toggl_Track">
-  <img src="https://i.imgur.com/cxnEjvV.png" alt="intuitive image or map" width=42%">
+  <img src="https://i.imgur.com/p7ZR8dq.png" alt="Toggl-Track" width=42%">
   </a>
   <br><br>
 Toggl-Track: 如何记录时间？
