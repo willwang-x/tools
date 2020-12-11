@@ -12,7 +12,7 @@ Toggl-Track: 如何记录时间？
 
 ## Why 
 
-受《[奇特的一生](https://book.douban.com/review/9866948/)》的影响，需要一个[time tracking app](https://www.wikiwand.com/en/Time-tracking_software)，受另一个柳比歇夫[爱好者](https://github.com/yaobinwen/robin_on_rails)推荐，开始了Toggl Track。对这个软件的期待：
+受《[奇特的一生](https://book.douban.com/review/9866948/)》的影响，需要一个[time tracking app](https://www.wikiwand.com/en/Time-tracking_software)，之前使用Worklfowy，受另一个柳比歇夫[爱好者](https://github.com/yaobinwen/robin_on_rails)推荐，开始了Toggl Track。对这个软件的期待：
 
 * **稳定便捷**：随时随地随处都可以记录时间，e.g. One-Click Timers
 * **提供洞见**：快速了解时间曲线，以便调整，e.g. [Calendar View](https://toggl.com/blog/calendar-view-feature)
@@ -21,7 +21,7 @@ Toggl-Track: 如何记录时间？
 
 * **记录**：记录**所有**时间 by Apps.
 * **查看**：查看时间**使用** by Charts.
-* **更新**：优化时间分配和**工具**。
+* **更新**：优化**时间分配**和**工具**。
 
 ## What 
 
