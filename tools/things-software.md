@@ -36,3 +36,9 @@ Things
 ### Others
 
 * Awards
+
+## FAQs
+
+#### Q: Things on Apple Watch cannot connect things cloud?
+
+A: 
