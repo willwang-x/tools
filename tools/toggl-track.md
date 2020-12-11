@@ -26,7 +26,7 @@ Toggl-Track: 如何记录时间？
 ## What 
 
 * **Apps**: TogglDesktop(Mac)，Toggl Track(iOS).
-* **charts**: timery, **calendar**, reports
+* **charts**: [timery](https://timeryapp.com/), **calendar**, reports
 * [Calendar](https://toggl.com/blog/calendar-view-feature): 符合我对[时间之柜](https://willwang.cc/2020/02/time-cabinet)可视化的想象
 
 
