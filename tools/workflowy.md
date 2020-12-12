@@ -46,7 +46,18 @@ A: Here are some I think of:
 
 * 了解是否改进优先级的地方。即定义优先级算法。
 
-## More 
+#### Q: 如何获得最新关于workflowy的技巧？
 
-* [最好的记忆载体是大脑，其次是workflowy](http://snip.ly/ahoo3#https://workflowy.com/invite/f05c925.emlx)
+A: Here are some: 
+
 * [workflowy blog](https://blog.workflowy.com/)
+* slack
+* [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/)
+* [How I use WorkFlowy](https://blog.workflowy.com/category/how-i-use-workflowy/)
+* [WorkFlowy Tips](https://blog.workflowy.com/category/workflowy-tips/)
+
+#### Q: list of features I liked?
+
+A: 
+
+* [Daily Update email](https://blog.workflowy.com/2018/12/14/better-daily-digests-a-splash-of-color-in-your-inbox/)
