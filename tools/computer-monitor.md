@@ -71,8 +71,8 @@ A:
 |MacBook Pro| 13 | 2560 x 1600 | **227** | |
 |[Dell SE2719H](https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1)| 27 | 1920 × 1080 | 81 | |
 || 27 | 3840 × 2160 | 163 | |
-|[LG UltraFine](https://www.apple.com/shop/product/HMUA2VC/A/lg-ultrafine-4k-display)| 23.7 | 3840 x 2160 | **185.9** | |
-|[LG UltraFine](https://www.apple.com/ca/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)| 27 | 5120 x 2880 | **217.57** | |
+|[LG UltraFine 4K](https://www.apple.com/shop/product/HMUA2VC/A/lg-ultrafine-4k-display)| 23.7 | 3840 x 2160 | **185.9** | |
+|[LG UltraFine 5K](https://www.apple.com/ca/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)| 27 | 5120 x 2880 | **217.57** | |
 
 source: [ppi-calculator](https://www.calculatorsoup.com/calculators/technology/ppi-calculator.php)
 
