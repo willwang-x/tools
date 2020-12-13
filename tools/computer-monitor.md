@@ -101,7 +101,7 @@ A:
 #### Q: How to choose a monitor Size & Pixel Density?
 
 A: First estimate how far you will place the monitor from you. A body-rig Operator may
-place the monitor as far as** 3 ft** away, while a Focus Puller may be only **1 ft** away. You will find on the next page a chart to help select a monitor that works well with **your viewing distance** (all other parameters equal). A distance of 0 ft means that the monitor is
+place the monitor as far as **3 ft** away, while a Focus Puller may be only **1 ft** away. You will find on the next page a chart to help select a monitor that works well with **your viewing distance** (all other parameters equal). A distance of 0 ft means that the monitor is
 not usable with the parameters entered. 
 
 source: [Resolution or Pixel Density?](http://www.transvideointl.com/assets/TechDensity_Mobi92620.pdf)
