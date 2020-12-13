@@ -101,3 +101,11 @@ A: 通过动词，以下为任务优先级排序：
 1. **Update**：对已有知识某个部分更新
 
 优先处理「Optimize」和「Map」，有时间再完成后面。
+
+#### Q: Anki card的最低要求是什么？ 
+
+A: 如果说Anki是以{key: val}存储，那么一切卡片的key都有一个对应的公开数据库：
+
+如 wikiwand, yelp, goodread, douban，python-libaray ...
+
+这样一切知识，都有序对应到自己的知识库，于是几乎一切外界信息都可以在我的ditgal garden中找到它的土壤。
