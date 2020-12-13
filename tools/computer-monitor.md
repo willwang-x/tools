@@ -66,10 +66,19 @@ Four main part:
 
 A: 
 
-* 13-inch MacBook Pro models introduced in late 2012 or later. Native resolution: 2560 x 1600 at **227 pixels** per inch.
-* 27-inch 1080p monitor has a pixel density of about **81 ppi**. 
-* 27-inch 4K -> **163 ppi**.
-* 23-inch 4K -> **191.56** e.g. [LG UltraFine 4K Display](https://www.apple.com/shop/product/HMUA2VC/A/lg-ultrafine-4k-display)
+| computer monitor🖥 | size(inch) | resolution | ppi | Aspect ratio |
+| :-------- | :---------: | :----------: | :---------: |:---------: |
+|MacBook Pro| 13 | 2560 x 1600 | **227** | |
+|[Dell SE2719H](https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1)| 27 | 1920 × 1080 | 81 | |
+|| 27 | 3840 × 2160 | 163 | |
+|[LG UltraFine](https://www.apple.com/shop/product/HMUA2VC/A/lg-ultrafine-4k-display)| 23.7 | 3840 x 2160 | **185.9** | |
+|[LG UltraFine](https://www.apple.com/ca/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)| 27 | 5120 x 2880 | **217.57** | |
+
+source: [ppi-calculator](https://www.calculatorsoup.com/calculators/technology/ppi-calculator.php)
+
+Humans can see a maximum of **300 ppi** (60% less) from a distance of **2.5 ft** (76.2cm VS 70cm =  my desk width). 
+
+![different inch](https://i.imgur.com/KAgwbpp.png)
 
 #### Q: 为什么显示器的分辨率不用PPI或PPR来表述，而用1080p/1.92K这样来表述？
 
@@ -82,3 +91,17 @@ source: [zhihu](https://www.zhihu.com/question/47559540)
 A: Humans can see a maximum of **300 ppi** (60% less) from a distance of **2.5 ft**. Beyond a distance of 3 to 4 feet from the display, the human eye cannot see the individual pixels. That is why a 24” television with a low pixel density from 6 feet away may look as good as a much higher pixel density 7” display viewed from 2 ft.
 
 source: [Human eye resolution](http://www.transvideointl.com/assets/TechDensity_Mobi92620.pdf)
+
+#### Q: Some reviews about computer monitors?
+
+A: 
+
+* [LG UltraFine 4K Display (2019) review: bigger isn’t better](https://www.theverge.com/2019/7/2/20678597/lg-ultrafine-4k-2019-mac-monitor-review-price-specs-features)
+
+#### Q: How to choose a monitor Size & Pixel Density?
+
+A: First estimate how far you will place the monitor from you. A body-rig Operator may
+place the monitor as far as** 3 ft** away, while a Focus Puller may be only **1 ft** away. You will find on the next page a chart to help select a monitor that works well with **your viewing distance** (all other parameters equal). A distance of 0 ft means that the monitor is
+not usable with the parameters entered. 
+
+source: [Resolution or Pixel Density?](http://www.transvideointl.com/assets/TechDensity_Mobi92620.pdf)
