@@ -20,8 +20,8 @@ Git是程序员的强力工具，早日掌握早日受用。
 
 * [map](https://workflowy.com/s/BZDH.1aTOIGRJzF): list of git commands
 * [cheatsheet](http://ndpsoftware.com/git-cheatsheet.html): [interactive](http://ndpsoftware.com/git-cheatsheet.html), [pdf](https://education.github.com/git-cheat-sheet-education.pdf), [how to escape a git mess](http://justinhileman.info/article/git-pretty/git-pretty.png)
-* [explorer](https://gitexplorer.com/): Easy way to learn and search git commands. 
 * [documentation](https://git-scm.com/doc): Official, [tutorials](https://www.atlassian.com/git/tutorials), [wikibooks](https://en.wikibooks.org/wiki/Git)
+* [explorer](https://gitexplorer.com/): Easy way to learn and search git commands. 
 * [books](https://www.fromdev.com/2015/02/best-git-books.html): [Pro Git](https://git-scm.com/book/en/v2), [Version Control with Git](https://book.douban.com/subject/26341974/)
 * [visualization](https://www.youtube.com/watch?v=ko3onK77Ni0): Visualizing Git Commands Using M&Ms and Pocky
 
