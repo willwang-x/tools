@@ -25,6 +25,7 @@ Git是程序员的强力工具，早日掌握早日受用。
 * [books](https://www.fromdev.com/2015/02/best-git-books.html): [Pro Git](https://git-scm.com/book/en/v2), [Version Control with Git](https://book.douban.com/subject/26341974/)
 * [visualization](https://www.youtube.com/watch?v=ko3onK77Ni0): Visualizing Git Commands Using M&Ms and Pocky
 * [wikibooks](https://en.wikibooks.org/wiki/Git)
+* [tutorials](https://www.atlassian.com/git/tutorials)
 
 ## What 
 
