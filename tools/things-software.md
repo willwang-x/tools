@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Things_(software)">
-  <img src="https://i.imgur.com/mzlGRIr.png" alt="things" width=42%">
+  <img src="https://i.imgur.com/Tnb3xpH.png" alt="things" width=42%">
   </a>
   <br><br>
 Things
@@ -42,3 +42,8 @@ Omnifocus(2013-2020)对我来说有点重，感觉Things很轻巧，有minimalis
 #### Q: Things on Apple Watch cannot connect things cloud?
 
 A: [Troubleshooting Things on Apple Watch](https://culturedcode.com/things/support/articles/4481378/): It worked until I try 「Perform advanced troubleshooting」
+
+
+#### Q: How to get the most out of Things?
+
+A: [Support](https://culturedcode.com/things/support/)
