@@ -109,3 +109,8 @@ A: 如果说Anki是以{key: val}存储，那么一切卡片的key都有一个对
 如 wikiwand, yelp, goodread, douban，python-libaray ...
 
 这样一切知识，都有序对应到自己的知识库，于是几乎一切外界信息都可以在我的ditgal garden中找到它的土壤。
+
+
+#### Q: Anki vs Supermemo?
+
+A: [Battle of the Spaced Repetition Heavyweights: Anki vs. Supermemo Part II](https://unrelatedwaffle.medium.com/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-part-ii-10ef2cd0379d)
