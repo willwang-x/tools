@@ -15,7 +15,7 @@ Things
 
 ## Why 
 
-Omnifocus(2013-2020)对我来说有点重，感觉Things很轻巧，有minimalism的感觉。所以转过来尝试以一下。
+Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism的感觉。所以转过来尝试以一下。
 
 我对[GTD](https://www.wikiwand.com/en/Getting_Things_Done)工具的要求：
 
@@ -23,6 +23,10 @@ Omnifocus(2013-2020)对我来说有点重，感觉Things很轻巧，有minimalis
 * **安排**：快速提醒我当天的事情。
 * **排序**：{事情s} -> 排序算法 -> {有序} （目前好像还没有这样的功能，因为需要你定义排序算法，每个人对于事情的优先级都不一样
 
+
+## How
+
+* [reddit: thingsap](https://www.reddit.com/r/thingsapp/)
 
 ## What 
 
@@ -33,9 +37,54 @@ Omnifocus(2013-2020)对我来说有点重，感觉Things很轻巧，有minimalis
 * Additional features
 * Things Cloud
 
+### First Steps
+
+* Frequently Asked Questions
+* Installing the Trial
+* Buying the Apps
+* Using the Apps
+* [Importing To-Dos From Other Apps](https://culturedcode.com/things/support/articles/2803555/)
+* Gifting the Apps
+* Minimum Requirements
+
+### [Tips & Tricks](https://culturedcode.com/things/support/)
+
+* Setting Reminders
+* Creating Repeating To-Dos
+* Using Dates and Times
+* [Location-Based Reminders via Automation](https://culturedcode.com/things/support/articles/8085279/)
+* Using Gestures on iOS
+* Using Things on Apple Watch
+* [Using Headings in Projects](https://culturedcode.com/things/support/): `shift + command + N`
+* Using Tags
+* Using Quick Find (Search)
+* Show and Hide Things’ Sidebar
+* Using Multiple Things Windows
+* Moving Items in Things
+* Things Widgets for iOS and macOS
+* Keyboard Shortcuts for Mac
+* Keyboard Shortcuts for iPad
+* Changing Things’ Language
+* Using Drag & Drop on iPad
+* Looking Up the Creation Date for To-Dos
+
+### Section
+
+There’s too much for you to get done in one day, but that’s no reason to stress. If you organize your to-dos with this fact in mind, you can make it easier to concentrate on doing what’s important right now.
+
+* **Today** is the list for to-dos that you want to start before the day ends. They’re your priorities.
+* **Upcoming** is for planning ahead: it’s a timeline of your to-dos, organized by when you’ll start them, when they have deadlines, or when they’ll repeat next.
+* **Anytime** is home for all of the to-dos you could start at any time. It’s a good place to look when putting together your Today list or planning your week in Upcoming.
+* **Someday** is the place for to-dos that you might like to get to, but you’re not sure when. Regularly review what you’ve added here to decide if it’s time to act.
+
+To learn how to assign your to-dos quickly to any of these lists, check out these [tips](https://culturedcode.com/things/support/articles/2803579/) here as well.
+
+
+
 ### Others
 
 * Awards
+
 
 ## FAQs
 
