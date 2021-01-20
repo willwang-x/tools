@@ -1,6 +1,13 @@
-# Manico
+<h1 align="center">
+<br>
+	<a href="https://manico.im/">
+  <img src="https://i.imgur.com/KIBq43g.png" alt="Manico summary" width=42%">
+  </a>
+  <br><br>
+Manico
+  <br><br>
+</h1>
 
-![manico](https://i.imgur.com/KIBq43g.png)
 
 > a fast app launch and switch tool designed for OS
 

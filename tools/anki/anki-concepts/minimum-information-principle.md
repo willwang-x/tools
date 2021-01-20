@@ -1,8 +1,13 @@
-# Minimum Information Principle
+<h1 align="center">
+<br>
+	<a href="https://supermemopedia.com/wiki/Minimum_information_principle">
+<img src="https://i.imgur.com/NSBhrOn.png" alt="Minimum Information Principle" width="42%">
+  </a>
+  <br><br>
+Minimum Information Principle
+  <br><br>
+</h1>
 
-<center>
-<img src="https://i.imgur.com/NSBhrOn.png" alt="Minimum Information Principle" width="250">
-</center>
 
 > minimum information principle says that simple elements formulated for **active recall** bring much better learning results than complex elements even though one complex element may be equivalent to a large number of simpler elements. [[supermemopedia](https://supermemopedia.com/wiki/Minimum_information_principle)]
 

@@ -1,6 +1,13 @@
-# Beyond Player
+<h1 align="center">
+<br>
+	<a href="https://circleapps.co/">
+  <img src="https://i.imgur.com/35nLEYk.jpg" alt="beyond player - demo" width=42%">
+  </a>
+  <br><br>
+Beyond Player
+  <br><br>
+</h1>
 
-![beyond player - demo](https://i.imgur.com/35nLEYk.jpg)
 
 > Video Player for English Study [[github](https://circleapps.co/)]
 
