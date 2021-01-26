@@ -49,8 +49,20 @@ Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism
 
 ### [Tips & Tricks](https://culturedcode.com/things/support/)
 
-* Setting Reminders
-* Creating Repeating To-Dos
+* [Setting Reminders](https://culturedcode.com/things/support/articles/2803579/)
+	* Deadlines: The date you can’t miss 
+	* **Someday**: Everything that’s **not clear yet**
+		* Someday is a great way to keep your Anytime list manageable, too, because it will now only show the to-dos you can **realistically accomplish next**.  
+	* “tom” = tomorrow’s date
+	* “eve” = This Evening
+	* “2pm fri” = 2pm on Friday
+	* “next we” = 7 days from the current date
+	* “in 2 mo” = 2 months from the current date
+	* “third thur in jul” = 3rd Thursday in July
+
+* [Creating Repeating To-Dos](https://culturedcode.com/things/support/articles/2803564/)
+	* View all repeating content in one place: Comand + F + 'repeating'
+	* Change a repeating to-do’s template
 * Using Dates and Times
 * [Location-Based Reminders via Automation](https://culturedcode.com/things/support/articles/8085279/)
 * Using Gestures on iOS
@@ -96,3 +108,9 @@ A: [Troubleshooting Things on Apple Watch](https://culturedcode.com/things/suppo
 #### Q: How to get the most out of Things?
 
 A: [Support](https://culturedcode.com/things/support/)
+
+#### Q: Videos I've seen about Things?
+
+A: Here are some: 
+
+* [Why Things 3 is my Favorite GTD Task Manager](https://www.youtube.com/watch?v=s0wnwptqNiA): No Due Times

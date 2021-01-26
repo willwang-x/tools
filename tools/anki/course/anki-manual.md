@@ -48,6 +48,23 @@
 		* **Cloze Templates**
 	* Styling & HTML  
 1. Preferences
+	* Syncing
+	* Review
+		* Scheduling
+		* Notifications
+		* Top Bar
+		* Bottom Bar
+		* Taps
+		* Swipes
+		* Scratchpad
+		* Auto Advance
+		* Gamepads
+	* General
+	* Theme
+	* Profiles
+	* Backups
+	* Check Database
+	* Check Media 
 1. Deck Options
 1. Syncing with AnkiWeb
 1. Profiles
