@@ -27,6 +27,9 @@ Wiki
 * 阅读**讨论页**：可以增加理解问题的角度
 * 了解**分类体系**：帮助了解知识的边界和地图
 
+### How to get most out of wikipedia?
+
+* [wikimediafoundation.org](https://wikimediafoundation.org/)
 
 ## What 
 

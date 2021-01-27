@@ -64,6 +64,7 @@ Anki can be summed up with two bullets:
 * **block of time**: 为Anki安排一个整块时间，而非分散的时间。Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
 * **记录**：截屏给review环节做，或者很重要。在workflowy中记录下来，以git commit的要求记录。保证Anki卡片 - github - wiki 三位一体。
 	* e.g. 卡片命名：note-name, section name, detail. e.g. Prefrontal Cortex, What? Analogy of 5 functions 
+	* e.g. deck-name 为wiki中的话题名。 e.g. [data-type](https://www.wikiwand.com/en/Data_type#/External_links)
 * **排序**：系统优化，大于知识细节更新。 e.g. 更新知识的feild，大于定义一个新知识
 
 

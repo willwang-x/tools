@@ -50,20 +50,22 @@ Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism
 ### [Tips & Tricks](https://culturedcode.com/things/support/)
 
 * [Setting Reminders](https://culturedcode.com/things/support/articles/2803579/)
-	* Deadlines: The date you can’t miss 
-	* **Someday**: Everything that’s **not clear yet**
-		* Someday is a great way to keep your Anytime list manageable, too, because it will now only show the to-dos you can **realistically accomplish next**.  
 	* “tom” = tomorrow’s date
 	* “eve” = This Evening
 	* “2pm fri” = 2pm on Friday
 	* “next we” = 7 days from the current date
 	* “in 2 mo” = 2 months from the current date
 	* “third thur in jul” = 3rd Thursday in July
-
 * [Creating Repeating To-Dos](https://culturedcode.com/things/support/articles/2803564/)
 	* View all repeating content in one place: Comand + F + 'repeating'
 	* Change a repeating to-do’s template
-* Using Dates and Times
+* [Using Dates and Times](https://culturedcode.com/things/support/articles/2803579/): make sure your to-dos come to your **attention** when **needed**.
+	* Today & This Evening: Add structure to your day. `⌘ Cmd` + `S`
+	* Upcoming: When do you want to do something?
+	* Deadlines: The date you can’t miss
+	* Reminders: A nudge for **time-sensitive** to-dos 
+	* Someday:Everything that’s **not clear yet**
+	* Type Ahead: Use natural date input
 * [Location-Based Reminders via Automation](https://culturedcode.com/things/support/articles/8085279/)
 * Using Gestures on iOS
 * Using Things on Apple Watch
