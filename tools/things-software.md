@@ -72,7 +72,7 @@ Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism
 * [Using Headings in Projects](https://culturedcode.com/things/support/): `shift + command + N`
 * Using Tags
 * Using Quick Find (Search)
-* Show and Hide Things’ Sidebar
+* [Show and Hide Things’ Sidebar](https://culturedcode.com/things/support/articles/3238254/): `⌘ Cmd` + `/` 
 * Using Multiple Things Windows
 * Moving Items in Things
 * Things Widgets for iOS and macOS
