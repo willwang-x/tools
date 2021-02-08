@@ -38,3 +38,12 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * Utility
 * Medical education
 * Copera Inc.'s Anki for Palm OS
+
+## FAQs
+
+#### Q: Good resources?
+
+A: Here are some:
+
+* [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/): For readers who are new to spaced repetition, this guide will help you overcome common problems that often lead people to abandon these systems. In later sections, we’ll cover some unusual prompt-writing perspectives which may help more experienced readers deepen their practice. If you don’t have a spaced repetition system, I’d suggest downloading Anki and reading Michael’s aforementioned essay. Our discussion will focus on high-level principles, so you can follow along using any spaced repetition system you like. 
+

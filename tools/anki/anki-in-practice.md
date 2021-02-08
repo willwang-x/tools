@@ -115,3 +115,9 @@ A: 如果说Anki是以{key: val}存储，那么一切卡片的key都有一个对
 #### Q: Anki vs Supermemo?
 
 A: [Battle of the Spaced Repetition Heavyweights: Anki vs. Supermemo Part II](https://unrelatedwaffle.medium.com/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-part-ii-10ef2cd0379d)
+
+#### Q: How much studying is good for you?
+
+A: ?
+
+source: [reddit.com](https://www.reddit.com/r/Anki/comments/le6baz/how_much_studying_is_good_for_you)
