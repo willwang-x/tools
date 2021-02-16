@@ -116,3 +116,29 @@ A: [Support](https://culturedcode.com/things/support/)
 A: Here are some: 
 
 * [Why Things 3 is my Favorite GTD Task Manager](https://www.youtube.com/watch?v=s0wnwptqNiA): No Due Times
+
+#### Q: How to See events from 3rd party apps (Google, Exchange, ...)?
+
+[A](https://culturedcode.com/things/support/articles/2803583/): Things will only read events from Apple’s native calendar app, not other third party apps. To view your 3rd party calendar data in Things just **sync it to Apple Calendar**. Things will then be able to see it and display it alongside your to-dos.
+
+#### Q: Getting Productive with Things?
+
+[A](https://culturedcode.com/things/guide/): Things is the app for every thing you do. With it, you can organize **every aspect of your life**—from your daily routine to your long-term goals—and find the **clarity** that only comes from knowing what to do next.
+
+
+
+1. Gather it all in one place
+1. Decide when to get started
+1. Do bigger things with projects
+1. Define yourself with areas
+1. Establish your daily routine
+1. A few tips before you go
+1. You’re ready to achieve your goals
+
+
+
+
+
+
+
+

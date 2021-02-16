@@ -37,6 +37,16 @@ As a worklog:
 * **template**: workflowy的功能帮助你完成重复事情的模版。
 * [WOOP](https://woopmylife.org/en/home)：Wish，Outcome，Obstacle，Plan 或许可以一件事情的模版。
 
+### [Daily Digest emails](https://blog.workflowy.com/2018/12/14/better-daily-digests-a-splash-of-color-in-your-inbox/)
+
+We have made these emails dramatically more useful by adding line level diffs, color coding, and attribution.
+
+color coding
+
+* **Green** for items that were **added**, 
+* **red** for items that were **deleted**, 
+* **gray** for items that were **completed**, and 
+* **blue** for items that were **moved**.
 
 ## FQAs
 
