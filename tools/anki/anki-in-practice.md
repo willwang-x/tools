@@ -121,3 +121,12 @@ A: [Battle of the Spaced Repetition Heavyweights: Anki vs. Supermemo Part II](ht
 A: ?
 
 source: [reddit.com](https://www.reddit.com/r/Anki/comments/le6baz/how_much_studying_is_good_for_you)
+
+
+#### Q: How do decide which knowledge you would put it into Anki?
+
+A: According to priority algorithm & Importance of knowledge. In short, the knowledge with lower layer is more important. 
+
+<img src="https://i.imgur.com/sIpmot1.png" alt="world knowledge" width=42%">
+
+
