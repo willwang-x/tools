@@ -15,14 +15,15 @@ Things
 
 ## Why 
 
-Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism的感觉。所以转过来尝试以一下。
+* **Easy input**: no matter what productivity method you practice, getting tasks, reminders, and ideas into your system must be as smooth and frictionless as possible.
+* **Multiple types of work**: a good task manager handles everything from large complex projects, to smaller projects, to single recurring tasks, to management of your personal or work calendar. While how you focus your time may be better suited to using a calendar, we still need a place to document all the required tasks for a specific goal.
+* **Various methods of view**: the best task managers allow the user to configure a view of their tasks that fits their needs. This is a tricky one as we don’t want too much customization, lest we succumb to fiddling. Still, some flexibility is required.
+* **Flexible organization**: not everyone needs tags or folders, but for those who do, it’s usually essential.
+* **The ability to document**: this may be a factor that not all people consider, but documentation is a need in this space. Much of the work we do as knowledge workers requires some related information. If our task management tool allows us to include resources and commentary, that is a vital addition. Otherwise, we need to store all that information in another location. Elements we’re looking for here may include the ability to add notes and separate projects into sections, and could also include the ability to attach other file types directly to a task to reference in your to-do list.
+* **Aesthetics**: while function is more critical, with two equally capable options, form can play an important factor. We want to want to use our tools!
+* **Multi-platform**: The majority of Apple’s customers have multiple types of devices in their arsenal. Most will have an iPhone and use a Windows PC, while others may own an iPhone, iPad, Mac, Apple Watch, and more. Increasingly, web apps have become useful to maintain consistency across platforms and to ensure you can access your GTD list from anywhere you can open a browser.
 
-我对[GTD](https://www.wikiwand.com/en/Getting_Things_Done)工具的要求：
-
-* **收集**：在任何地方都可以快速收集想法。
-* **安排**：快速提醒我当天的事情。
-* **排序**：{事情s} -> 排序算法 -> {有序} （目前好像还没有这样的功能，因为需要你定义排序算法，每个人对于事情的优先级都不一样
-
+source: [The task manager and GTD app suite for Mac, iPhone, and iPad: Things](https://thesweetsetup.com/apps/best-personal-gtd-app-suite/)
 
 ## How
 
