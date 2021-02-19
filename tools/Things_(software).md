@@ -26,7 +26,9 @@ Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism
 
 ## How
 
-* [reddit: thingsap](https://www.reddit.com/r/thingsapp/)
+* [Reddit](https://www.reddit.com/r/thingsapp/): community
+* [Support](https://culturedcode.com/things/support/): get the most out of Things
+
 
 ## What 
 
