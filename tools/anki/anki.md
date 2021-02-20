@@ -37,7 +37,7 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [Autonous](https://www.reddit.com/user/Autonous/) :On this day [3 years](https://www.reddit.com/r/Anki/comments/l6rwwu/on_this_day_3_years_ago_had_my_first_session_more/) ago had my first session. More than 1000 days later it's still super useful!
 * [I love it, but some days man.](https://www.reddit.com/r/Anki/comments/lgvqyy/i_love_it_but_some_days_man): Lmao funny thing is if you let go off the rock for one day your bout to be rolled over and crushed by the reviews that have now multiplyed by 3 million
 * [Notetaking/learning setup using Markdown, Git, Anki and Pandoc](https://www.reddit.com/r/Anki/comments/gax41n/notetakinglearning_setup_using_markdown_git_anki/): A way to convert markdown to Anki
-
+* [First year with anki went pretty well!](https://www.reddit.com/r/Anki/comments/ln08fh/first_year_with_anki_went_pretty_well/): DAM 2 HOURS PER DAY WITH NO REST, GOD BLESS YOUR LIFE
 
 
 ### Others
