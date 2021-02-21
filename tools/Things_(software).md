@@ -126,7 +126,7 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 * Using Gestures on iOS
 * Using Things on Apple Watch
 * [Using Headings in Projects](https://culturedcode.com/things/support/): `shift + command + N`
-* Using Tags
+* [Using Tags](https://culturedcode.com/things/support/articles/2803581/): Categorize your to-dos with tags, then filter your lists to sharpen your focus.
 * Using Quick Find (Search)
 * [Show and Hide Things’ Sidebar](https://culturedcode.com/things/support/articles/3238254/): `⌘ Cmd` + `/` 
 * Using Multiple Things Windows
