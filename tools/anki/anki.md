@@ -58,3 +58,13 @@ A: Here are some:
 
 * [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/): For readers who are new to spaced repetition, this guide will help you overcome common problems that often lead people to abandon these systems. In later sections, we’ll cover some unusual prompt-writing perspectives which may help more experienced readers deepen their practice. If you don’t have a spaced repetition system, I’d suggest downloading Anki and reading Michael’s aforementioned essay. Our discussion will focus on high-level principles, so you can follow along using any spaced repetition system you like. 
 
+#### Q: Since Anki is open-source, why doesn't it have more developers working on it?
+
+[A](https://www.reddit.com/r/Anki/comments/lqf561/since_anki_is_opensource_why_doesnt_it_have_more): 
+
+* Well, I guess if you include addon development the picture would look a bit different. I think most don't wan't to work on anki itself but on addons for anki to make it more useful for themselves and others like the mod here u/Glutanimate . I am glad Mr Elmes develops anki, maybe some competent people can come and help him if he wants.
+* From a former add-on developer (6 years in Anki ecosystem, stopped 2 years ago): while I respect Damien's work and had good interactions with him, I was reluctant to contribute to the core because:
+	* there were not many previous pull requests merged which indicated that he does not encourage external contribution
+	* the codebase in many places was not pretty to say the least; established practices and style was frequently not followed
+	* I did not feel that it was a good use of my time to struggle to get my contribution merged which followed from the first two points, especially because I could do everything I wanted with an extension.
+
