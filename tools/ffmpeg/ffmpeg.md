@@ -195,6 +195,14 @@ ffmpeg -ss 0.0 -t 2.0 -i input.mp4 -filter_complex "[0:v] fps=8,scale=w=480:h=-1
 ffmpeg -i video.mp4 -vf "subtitles=subs.srt:force_style='Fontsize=24,PrimaryColour=&H0000ff&'" -c:a copy output.mp4
 ```
 
+#### Q: How to convert pic from png to jpg?
+
+A:
+
+```
+ffmpeg -i 1.png 1.jpg
+```
+
 ## More 
 
 * [Read and Write Video Frames in Python Using FFMPEG](http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/)

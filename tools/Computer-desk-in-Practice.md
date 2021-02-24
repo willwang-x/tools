@@ -22,7 +22,12 @@ Don't underestimate how much your surroundings can influence your productivity. 
 
 ## How
 
-![](https://i.imgur.com/pkchiOS.jpg)
+
+<center>
+<a href="https://kit.co/will.wang.wang/computer-desktop">
+<img src="https://i.imgur.com/2TpFhy7.jpeg" alt="intuition or map" width=42%">
+</a>
+</center>
 
 * [How to Organize Your Desk](https://www.wikihow.com/Organize-Your-Desk)
 * [Productivity and Ergonomics: The Best Way to Organize Your Desk](https://zapier.com/blog/how-to-set-up-your-desk/)
@@ -32,6 +37,11 @@ Don't underestimate how much your surroundings can influence your productivity. 
 ### Overview
 
 The computer desk and related ergonomic desk are furniture pieces designed to **comfortably** and **aesthetically** provide a **working surface** and house or conceal office equipment including computers, peripherals and **cabling** for office and home-office users.
+
+### Intuition
+
+![how to set up your desk for productivity & ergonomics](https://i.imgur.com/pkchiOS.jpg)
+
 
 
 ### Others
