@@ -138,6 +138,20 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 * Using Drag & Drop on iPad
 * Looking Up the Creation Date for To-Dos
 
+
+### Integrating With Other Apps
+
+* Connecting Your Calendars
+* [Creating To-Dos From Other Apps](https://culturedcode.com/things/support/articles/2803569/):
+	* Quickly Add New To-Dos: `Ctrl` + `Space`
+	* Adding New To-Dos with Links and Text: `Ctrl` + `⌥ Opt` + `⌘ Cmd` + `x`
+* Adding To-Dos via Reminders App
+* Sharing To-Dos
+* Creating To-Dos With a Launcher
+* Using Mail to Things
+* Using AppleScript
+* Things URL Scheme
+
 ### Section
 
 There’s too much for you to get done in one day, but that’s no reason to stress. If you organize your to-dos with this fact in mind, you can make it easier to concentrate on doing what’s important right now.
