@@ -38,6 +38,8 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [I love it, but some days man.](https://www.reddit.com/r/Anki/comments/lgvqyy/i_love_it_but_some_days_man): Lmao funny thing is if you let go off the rock for one day your bout to be rolled over and crushed by the reviews that have now multiplyed by 3 million
 * [Notetaking/learning setup using Markdown, Git, Anki and Pandoc](https://www.reddit.com/r/Anki/comments/gax41n/notetakinglearning_setup_using_markdown_git_anki/): A way to convert markdown to Anki
 * [First year with anki went pretty well!](https://www.reddit.com/r/Anki/comments/ln08fh/first_year_with_anki_went_pretty_well/): DAM 2 HOURS PER DAY WITH NO REST, GOD BLESS YOUR LIFE
+* [Never thought I could do it but here we go, I spent 8 hours studying with ANKI!](https://www.reddit.com/r/Anki/comments/ls7um3/never_thought_i_could_do_it_but_here_we_go_i) -> [Speed Focus Mode (auto-alert, auto-reveal, auto-fail)](https://ankiweb.net/shared/info/1046608507)
+* [See you in 3,8 years](https://www.reddit.com/r/Anki/comments/lsy0p1/see_you_in_38_years): [Auto Ease Factor](https://ankiweb.net/shared/info/1672712021)
 
 
 ### Others
