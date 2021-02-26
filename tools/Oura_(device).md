@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Oura_(company)">
-  <img src="https://i.imgur.com/SECv7kt.jpeg" alt="intuition or map" width=42%">
+  <img src="https://i.imgur.com/FoymADH.jpeg" alt="intuition or map" width=42%">
   </a>
   <br><br>
 Oura (device) 
@@ -13,6 +13,7 @@ Oura (device)
 ## Why 
 
 * [THE BEST INVENTIONS OF 2020](https://time.com/collection/best-inventions-2020/5911381/oura-ring/)
+* 目前综合而言，综合最好的健康(睡眠，运动)检测工具。 
 
 ## How
 
@@ -82,15 +83,6 @@ activity and recovery.
 * Waterproof
 * Weight: 4 to 6 Grams
 
-
-### Others
-
-* History
-* Example
-* Intuition
-* Anatomy 
-* Taxonomy
-* Visulization
 
 
 ## FAQs
