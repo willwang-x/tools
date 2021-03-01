@@ -83,7 +83,7 @@ Schedule
 * Widgets allow the user to quickly access specific lists from their device's Home Screen or Notification Center on Mac, iPad, and iPhone.
 * Things URLs is a URL scheme that allows the user to construct special links for doing such things as creating to-dos or projects based on predefined values, invoking searches, or filtering lists.
 * Type Travel is a unique method for navigating the app on the user's Mac (or iPad with external keyboard) by simply typing where in the app they want to go: a project, area, to-do, or tag.
-* Quick Find allows the user to search through all their to-dos across projects, areas, and the Logbook.
+* **Quick Find** allows the user to search through all their to-dos across projects, areas, and the Logbook.
 * Logbook is where projects and to-dos are stored for future reference after they've been completed.
 
 #### Things Cloud
@@ -127,7 +127,13 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 * Using Things on Apple Watch
 * [Using Headings in Projects](https://culturedcode.com/things/support/): `shift + command + N`
 * [Using Tags](https://culturedcode.com/things/support/articles/2803581/): Categorize your to-dos with tags, then filter your lists to sharpen your focus.
-* Using Quick Find (Search)
+* [Using Quick Find (Search)](https://culturedcode.com/things/support/articles/2803584/):
+	* `⌘ Cmd` + `F`
+	* `Continue Search`
+	* ”tod” = **Today**
+	* ”upc” = **Upcoming**
+	* ”finan” = **Finances** if you have an area for your finances
+	* ”rome” = **Vacation in Rome** if you plan on visiting this city
 * [Show and Hide Things’ Sidebar](https://culturedcode.com/things/support/articles/3238254/): `⌘ Cmd` + `/` 
 * Using Multiple Things Windows
 * Moving Items in Things
