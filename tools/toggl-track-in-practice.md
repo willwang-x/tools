@@ -29,6 +29,17 @@ Toggl-Track: 如何记录时间？
 * **charts**: [timery](https://timeryapp.com/), **calendar**, reports
 * [Calendar](https://toggl.com/blog/calendar-view-feature): 符合我对[时间之柜](https://willwang.cc/2020/02/time-cabinet)可视化的想象
 
+### [Project](https://track.toggl.com/projects/3210383/list)
+
+* routine?
+* still-walking
+
+
+### [Client](https://track.toggl.com/3210383/clients)
+
+* overheads
+* relationship
+* workflow
 
 ## FAQs
 
@@ -47,3 +58,12 @@ A: 4个方面：
 #### Q: 如何更好的记录时间？
 
 A: 可以通分段计时，比如morning-routine在出门前，结束，再开始，来统计达到workpalce需要多少时间。
+
+
+#### Q: How to get most out of weekly-report?
+
+A: 
+
+* Add new fixed entry to Timery
+* Learn new trick about Toggl
+* Fix `Chaos`
