@@ -40,6 +40,9 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [First year with anki went pretty well!](https://www.reddit.com/r/Anki/comments/ln08fh/first_year_with_anki_went_pretty_well/): DAM 2 HOURS PER DAY WITH NO REST, GOD BLESS YOUR LIFE
 * [Never thought I could do it but here we go, I spent 8 hours studying with ANKI!](https://www.reddit.com/r/Anki/comments/ls7um3/never_thought_i_could_do_it_but_here_we_go_i) -> [Speed Focus Mode (auto-alert, auto-reveal, auto-fail)](https://ankiweb.net/shared/info/1046608507)
 * [See you in 3,8 years](https://www.reddit.com/r/Anki/comments/lsy0p1/see_you_in_38_years): [Auto Ease Factor](https://ankiweb.net/shared/info/1672712021)
+* [Finally 1,000 day streak!](https://www.reddit.com/r/Anki/comments/lv8lb5/finally_1000_day_streak): I've been using Anki for nearly 1,900 days (starting back in December of 2015), but today I finally hit the 1,000 day streak. Such a great tool! - [blog](https://www.mickmel.com/1000-days-of-anki/)
+
+
 
 
 ### Others
