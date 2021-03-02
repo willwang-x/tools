@@ -84,3 +84,10 @@ A:
 A: This subscription-based VR fitness app takes your workout beyond—way beyond—your four walls. Supernatural was launched in April by Within, a company specializing in immersive tech. Paired with the Oculus Quest or Quest 2 VR headsets, it transports users to places like the Gálapagos Islands, or a volcano in Ethiopia, or the surface of Mars. With the help of a virtual trainer, you strike down targets with your arms and squat your body into triangles on the screen, working up a fierce, but fun, sweat. “I don’t know anyone who runs on a treadmill for entertainment,” says Within co-founder and CEO Chris Milk. “We want you to feel a sense of awe.” A Supernatural subscription costs $19 per month or $179 per year. —Sean Gregory
 
 source: [time.com](https://time.com/collection/best-inventions-2020/5911373/within-supernatural/)
+
+#### Q: 实践心得？
+
+A: 关于音乐的选择：
+
+* 早上固定，以固定节奏，快速进入工作，e.g. [Quick Hits: Sweat Symphony](https://open.spotify.com/playlist/2SUPCPtUaDgs9KgWfeXQvP?si=5a88885874fe41f1)
+* 晚上新鲜，以探索边界，优化工作流程
