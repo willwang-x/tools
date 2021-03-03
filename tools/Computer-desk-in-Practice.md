@@ -83,3 +83,9 @@ A:
 
 * [Quora](https://www.quora.com/How-does-your-desk-look-as-a-programmer?srid=uLMT5&share=db5c2286)
 * [zhihu](https://www.zhihu.com/question/49011925)
+
+#### Q: My Desktop?
+
+A:
+
+* ![20210302](https://i.imgur.com/mCfuySR.jpeg)
