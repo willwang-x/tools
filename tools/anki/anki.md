@@ -73,3 +73,13 @@ A: Here are some:
 	* the codebase in many places was not pretty to say the least; established practices and style was frequently not followed
 	* I did not feel that it was a good use of my time to struggle to get my contribution merged which followed from the first two points, especially because I could do everything I wanted with an extension.
 
+
+#### Q: Why Anki, not other Anki competitors/alternatives like Remnote?
+
+[A](https://www.reddit.com/r/Anki/comments/lxjgks/a_warning_to_all_anki_users): 
+
+If this software is free of charge AND OPEN SOURCE:
+
+The cards will be saved in an open format, and the software required would be open source, which means you **fully own the software.**
+
+There is absolutely no way the developers of an open source project can take you on a wild ride. The source code will be everywhere on the Internet, being distributed under a reputable open source license. One example of a reputable open source license is GNU GPL license, which Anki is licensed under.

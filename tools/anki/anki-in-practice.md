@@ -27,6 +27,13 @@ Anki
 
 > Small, connected, meaningful. - [How to remember anything forever](https://ncase.me/remember/)
 
+如何高效完成每一次的Anki？
+
+* 完成：复习完今日任务 with [BGM](https://open.spotify.com/playlist/0jNPAzlNyegnHDwGt8Jq7H?si=q8OTXKg5RLqV5ABH_SHlIw)
+* 记录：记录中间过程遇到的想法
+* 完善：排序想法，逐一完成。
+
+
 如何拥有一个长久稳定优雅的使用体验？
 
 1. Keep Your Decks **Simple**
@@ -36,12 +43,6 @@ Anki
 1. **Cloze** Deletions Are Your Best Friend
 1. Use **Images**, Photos, & Figures
 1. Schedule a **block** of time for Anki (testing...)
-
-如何高效完成每一次的Anki？
-
-* 完成：复习完今日任务
-* 记录：记录中间过程遇到的想法
-* 完善：排序想法，逐一完成。
 
 ## What?
 

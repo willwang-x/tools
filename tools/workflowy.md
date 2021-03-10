@@ -70,4 +70,4 @@ A: Here are some:
 
 A: 
 
-* [Daily Update email](https://blog.workflowy.com/2018/12/14/better-daily-digests-a-splash-of-color-in-your-inbox/)
+* [Daily Update email](https://blog.workflowy.com/2018/12/14/better-daily-digests-a-splash-of-color-in-your-inbox/): There were 643 **additions**, 1393 **edits**, 195 **moves**, 60 **completions**, 2 **uncompletions**, and 189 **deletions** yesterday in your WorkFlowy.
