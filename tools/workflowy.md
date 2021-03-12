@@ -55,6 +55,8 @@ color coding
 A: Here are some I think of:
 
 * 了解是否改进优先级的地方。即定义优先级算法。
+* Only use complete feature when the bullet is an action. So you can know the number of completions by check "There were 347 additions, 404 edits, 204 moves, 56 **completions**, 3 uncompletions, and 206 deletions yesterday in your WorkFlowy."
+
 
 #### Q: 如何获得最新关于workflowy的技巧？
 
