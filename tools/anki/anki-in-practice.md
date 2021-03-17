@@ -130,4 +130,6 @@ A: According to priority algorithm & Importance of knowledge. In short, the know
 
 <img src="https://i.imgur.com/sIpmot1.png" alt="world knowledge" width=42%">
 
+#### Q: How do deal with a lot of cards in Anki?
 
+A: Review in priority: !! > ! > @ > ... > ~
