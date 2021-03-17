@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/NrICwZh.png" alt="How to remember anything forever" width=42%">
   </a>
   <br><br>
-Anki
+Anki in Practice
   <br><br>
 </h1>
 
