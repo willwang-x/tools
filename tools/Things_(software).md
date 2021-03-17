@@ -136,7 +136,8 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 	* ”rome” = **Vacation in Rome** if you plan on visiting this city
 * [Show and Hide Things’ Sidebar](https://culturedcode.com/things/support/articles/3238254/): `⌘ Cmd` + `/` 
 * Using Multiple Things Windows
-* Moving Items in Things
+* [Moving Items in Things](https://culturedcode.com/things/support/articles/9651894/)
+	* `Shift` + `Commmand` + `M`: target a specific heading
 * Things Widgets for iOS and macOS
 * Keyboard Shortcuts for Mac
 * Keyboard Shortcuts for iPad

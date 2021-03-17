@@ -44,6 +44,11 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [80 Free Anki Decks Across 69 Languages (Xefjord's Complete Languages)](https://www.reddit.com/r/Anki/comments/m30by0/80_free_anki_decks_across_69_languages_xefjords): a project I started over a year ago to teach every known living language to a "survival" level. Survival level being a term I created to refer to the ability to get by and begin learning the rest of the language using only your target language. My decks **teach 200 basic words and phrases handpicked to reach this goal** as well as the template for advanced cards that you can expand upon to further progress your study (The Asian language decks also borrow Chinese Character learning decks and put them in my format).
 
 
+### Addons
+
+* [Stats Plus](https://ankiweb.net/shared/info/1009670238): Stats Plus allows you to include the Anki graphs inside of other screens. You can choose the ones you want, and order them as you like!
+
+
 
 
 ### Others
