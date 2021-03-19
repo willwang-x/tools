@@ -89,3 +89,11 @@ If this software is free of charge AND OPEN SOURCE:
 The cards will be saved in an open format, and the software required would be open source, which means you **fully own the software.**
 
 There is absolutely no way the developers of an open source project can take you on a wild ride. The source code will be everywhere on the Internet, being distributed under a reputable open source license. One example of a reputable open source license is GNU GPL license, which Anki is licensed under.
+
+#### [Q](https://www.reddit.com/r/Anki/comments/m84v0s/how_many_hours_you_study_a_day/): How Many Hours You Study A Day?
+
+[A](https://www.reddit.com/r/Anki/comments/m84v0s/how_many_hours_you_study_a_day/): Depends on your workload really. I can't speak for med students, im a bioinformatics MSc student. I don't think the thing to optimize for is "number of hours studied" as work will definitely expand to fill up the hours (speaking from personal experience).
+
+You might want to look at [Ultradian cycles](https://www.wikiwand.com/en/Ultradian_rhythm) if you want to learn how to optimize daily study (look out for Dr. Andrew Huberman's podcast on youtube, if you dont watch him already).
+
+Personally, i study somewhere around 4.5 to 6 hours on average. I'll spend about 30 minutes daily on Anki. Sometimes its more sometimes its less. I tried doing 8-9 hours but tbh with you, after a few days i felt like I was moving through molasses. Id say now i get more done in my 4.5 hours than i did before during my 8-9 hours and I'm less stressed to boot. Once I switched from using "hours worked" to "tasks completed" as my personal metric for performance, things got a lot faster and easier.

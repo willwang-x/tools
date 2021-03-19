@@ -124,6 +124,8 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 	* Type Ahead: Use natural date input
 * [Location-Based Reminders via Automation](https://culturedcode.com/things/support/articles/8085279/)
 * Using Gestures on iOS
+	* [Location-based reminders for Things 3 users (Apple to the rescue!)](https://www.youtube.com/watch?v=JYmeKpr8nfk) 
+	* You can use the Reminders app as an input method for Things. This can be a useful workflow when combined with Siri or Shortcuts. Choose a Reminders list to appear in your Inbox, where you can import selected to-dos. Imported to-dos will be deleted from Reminders. - [ex](https://i.imgur.com/Ei9zBWG.png)
 * Using Things on Apple Watch
 * [Using Headings in Projects](https://culturedcode.com/things/support/): `shift + command + N`
 * [Using Tags](https://culturedcode.com/things/support/articles/2803581/): Categorize your to-dos with tags, then filter your lists to sharpen your focus.
