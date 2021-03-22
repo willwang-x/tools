@@ -29,6 +29,8 @@ source: [The task manager and GTD app suite for Mac, iPhone, and iPad: Things](h
 
 * [Reddit](https://www.reddit.com/r/thingsapp/): community
 * [Support](https://culturedcode.com/things/support/): get the most out of Things
+* [skillshare](https://www.skillshare.com/classes/Getting-Things-Done-with-Things-3/1151520223?via=search-layout-grid): Getting Things Done with Things 3
+
 
 
 ## What 
@@ -145,17 +147,17 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 * Keyboard Shortcuts for iPad
 * Changing Things’ Language
 * Using Drag & Drop on iPad
-* Looking Up the Creation Date for To-Dos
+* [Looking Up the Creation Date for To-Dos](https://culturedcode.com/things/support/articles/8453951/): `Get Info`
 
 
 ### Integrating With Other Apps
 
-* Connecting Your Calendars
+* [Connecting Your Calendars](https://culturedcode.com/things/support/articles/2803583/)
 * [Creating To-Dos From Other Apps](https://culturedcode.com/things/support/articles/2803569/):
 	* Quickly Add New To-Dos: `Ctrl` + `Space`
 	* Adding New To-Dos with Links and Text: `Ctrl` + `⌥ Opt` + `⌘ Cmd` + `x`
-* Adding To-Dos via Reminders App
-* Sharing To-Dos
+* [Adding To-Dos via Reminders App](https://culturedcode.com/things/support/articles/2803561/)
+* [Sharing To-Dos](https://culturedcode.com/things/support/articles/2803566/): `⌘ Cmd` + `C`
 * Creating To-Dos With a Launcher
 * Using Mail to Things
 * Using AppleScript

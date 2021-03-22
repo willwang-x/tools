@@ -25,9 +25,11 @@ Omnifocus(2013-2020)对我来说有点重，感觉Thing更轻巧，有minimalism
 
 ## How
 
-* Clean up all items if necessary
-* Check upcoming and prep
-* Clean up Inbox
+* Clean up 
+	* Inbox 
+	* Today
+	* Upcoming 
+	* Anytime
 
 ## What 
 

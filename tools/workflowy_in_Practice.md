@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/zSpsZMK.png" alt="ex workflowy as work log" width=42%">
   </a>
   <br><br>
-Workflowy
+Workflowy in Practice
   <br><br>
 </h1>
 
@@ -73,3 +73,9 @@ A: Here are some:
 A: 
 
 * [Daily Update email](https://blog.workflowy.com/2018/12/14/better-daily-digests-a-splash-of-color-in-your-inbox/): There were 643 **additions**, 1393 **edits**, 195 **moves**, 60 **completions**, 2 **uncompletions**, and 189 **deletions** yesterday in your WorkFlowy.
+
+#### Q: How to get most out of workflowy?
+
+A:
+
+* [slack](https://workflowyusergroup.slack.com/) - willwangcc

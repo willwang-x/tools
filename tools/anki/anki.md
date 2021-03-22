@@ -42,6 +42,10 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [See you in 3,8 years](https://www.reddit.com/r/Anki/comments/lsy0p1/see_you_in_38_years): [Auto Ease Factor](https://ankiweb.net/shared/info/1672712021)
 * [Finally 1,000 day streak!](https://www.reddit.com/r/Anki/comments/lv8lb5/finally_1000_day_streak): I've been using Anki for nearly 1,900 days (starting back in December of 2015), but today I finally hit the 1,000 day streak. Such a great tool! - [blog](https://www.mickmel.com/1000-days-of-anki/)
 * [80 Free Anki Decks Across 69 Languages (Xefjord's Complete Languages)](https://www.reddit.com/r/Anki/comments/m30by0/80_free_anki_decks_across_69_languages_xefjords): a project I started over a year ago to teach every known living language to a "survival" level. Survival level being a term I created to refer to the ability to get by and begin learning the rest of the language using only your target language. My decks **teach 200 basic words and phrases handpicked to reach this goal** as well as the template for advanced cards that you can expand upon to further progress your study (The Asian language decks also borrow Chinese Character learning decks and put them in my format).
+* [Just realized mid-way](https://www.reddit.com/r/Anki/comments/m8ov1h/just_realized_midway): avoid enumerations
+* [first time](https://www.reddit.com/r/Anki/comments/m9bv1d/anyone_else_hate_writing_anki_cards_and_doing_the): yes my brain is similar to a hard block of cheese so it is very difficult to study first time.
+
+
 
 
 ### Addons
