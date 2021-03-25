@@ -20,6 +20,9 @@ Try to find the fast way to transfer photos from iPhone to Mac
 * [10 tips for mastering Apple's Photos app](https://www.creativebloq.com/how-to/10-tips-for-mastering-apples-photos-app)
 * [10 Reasons Why You Should Use iCloud on Apple Devices](https://www.webnots.com/10-reasons-why-you-should-use-icloud-on-apple-devices/)
 * Sync photos between your Mac and iPhone or iPad when you have enough space for mac
+* [shortcuts](https://support.apple.com/guide/photos/keyboard-shortcuts-and-gestures-pht9b4411b24/mac): Keyboard shortcuts and gestures in Photos on Mac
+	* Add to Favorites: `.` 
+
 
 ## What 
 

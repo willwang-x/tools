@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/NrICwZh.png" alt="How to remember anything forever" width=42%">
   </a>
   <br><br>
-Anki
+Anki (software) 
   <br><br>
 </h1>
 
@@ -52,6 +52,10 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 
 * [Stats Plus](https://ankiweb.net/shared/info/1009670238): Stats Plus allows you to include the Anki graphs inside of other screens. You can choose the ones you want, and order them as you like!
 
+
+### Discussion
+
+* [Why is everyone saying Anki has difficult/complicated UI? I can't be the only one who thinks Anki is very user-friendly, easy to learn and well-designed in general??](https://www.reddit.com/r/Anki/comments/mc556m/why_is_everyone_saying_anki_has)
 
 
 
