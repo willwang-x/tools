@@ -24,12 +24,6 @@ Philips Hue
 	* Use the **Philips Hue Sync app** on your PC/**Mac**.
 
 
-
-
-
- 
-
-
 ## What 
 
 ### Overview

@@ -30,12 +30,44 @@ Try to find the fast way to transfer photos from iPhone to Mac
 
 Photos is a **photo management** and **editing** application developed by Apple. It was released as a bundled app in iOS 8 on September 17, 2014—replacing the Camera Roll—and released as a bundled app to OS X Yosemite users in the 10.10.3 update on April 8, 2015. It was released for tvOS 10 on September 13, 2016.
 
+### Features
+
+Photos is intended to be less complex than its professional predecessor, Aperture.[3] Photos are organized by the "moment", which is a combination of time and location metadata attached to the photo.[5]
+
+#### Editing
+
+#### iCloud Photo Library
+
+#### Professional printing
+
+#### Sharing
+
 
 ### Others
 
 * History
 * Features
 * Criticism
+
+### [Official Website](https://www.apple.com/macos/photos/)
+
+* A smarter way to find your favorites.
+	* Focus on your best shots.
+	* Your memories. Now playing.
+	* The moment you’re looking for, always at hand.
+* Fill your library, not your device.
+* Resize. Crop. Collage. Zoom. Warp. GIF. And more.
+* Add some fun filters.
+* Share here, there, and everywhere.
+* Turn your pictures into projects.
+
+
+
+
+
+ 
+
+
 
 
 ## FAQs

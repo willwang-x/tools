@@ -159,9 +159,9 @@ In 2015, the company announced "Nimbus"[13] – an update to Things Cloud's arch
 * [Adding To-Dos via Reminders App](https://culturedcode.com/things/support/articles/2803561/)
 * [Sharing To-Dos](https://culturedcode.com/things/support/articles/2803566/): `⌘ Cmd` + `C`
 * Creating To-Dos With a Launcher
-* Using Mail to Things
+* [Using Mail to Things](https://culturedcode.com/things/support/articles/2908262/)
 * Using AppleScript
-* Things URL Scheme
+* [Things URL Scheme](https://culturedcode.com/things/support/articles/2803573/)
 
 ### Section
 
