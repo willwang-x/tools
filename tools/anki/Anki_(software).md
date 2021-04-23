@@ -44,8 +44,7 @@ Anki is a free and open-source flashcard program using spaced repetition, a tech
 * [80 Free Anki Decks Across 69 Languages (Xefjord's Complete Languages)](https://www.reddit.com/r/Anki/comments/m30by0/80_free_anki_decks_across_69_languages_xefjords): a project I started over a year ago to teach every known living language to a "survival" level. Survival level being a term I created to refer to the ability to get by and begin learning the rest of the language using only your target language. My decks **teach 200 basic words and phrases handpicked to reach this goal** as well as the template for advanced cards that you can expand upon to further progress your study (The Asian language decks also borrow Chinese Character learning decks and put them in my format).
 * [Just realized mid-way](https://www.reddit.com/r/Anki/comments/m8ov1h/just_realized_midway): avoid enumerations
 * [first time](https://www.reddit.com/r/Anki/comments/m9bv1d/anyone_else_hate_writing_anki_cards_and_doing_the): yes my brain is similar to a hard block of cheese so it is very difficult to study first time.
-
-
+* [1000 days of love & hate (Zanki + own cards, AMA!)](https://www.reddit.com/r/Anki/comments/mqgzot/1000_days_of_love_hate_zanki_own_cards_ama): We need a fake streak generator so people stop bragging (because of the fake spam) and instead share experience **making the world better**.
 
 
 ### Addons

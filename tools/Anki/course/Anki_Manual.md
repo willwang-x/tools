@@ -1,4 +1,14 @@
-# [Anki Manual](https://docs.ankiweb.net/#/)
+<h1 align="center">
+<br>
+	<a href="https://docs.ankiweb.net/#/">
+  <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%">
+  </a>
+  <br><br>
+Anki Manual
+  <br><br>
+</h1>
+
+> one-line-description. [[docs.ankiweb.net](https://docs.ankiweb.net/#/)]
 
 ## Why
 
@@ -14,11 +24,11 @@
 1. Introduction
 1. Background
 1. Getting Started
-1. Studying
+1. [Studying](https://docs.ankiweb.net/#/studying)
 	* Decks
 	* Study Overview
 	* Questions
-	* Learning
+	* [Learning](https://www.youtube.com/watch?v=eHaCkDyMmPQ)
 	* Reviewing
 	* Due Counts
 	* Editing and More
@@ -74,7 +84,13 @@
 1. Importing
 1. Exporting
 1. Managing Files
-1. Statistics
+1. [Statistics](https://docs.ankiweb.net/#/stats)
+	* Card Info
+	* Statistics
+	* Types of Cards
+	* Today
+	* The Graphs
+	* Manual Analysis
 1. Media
 1. Math & Symbols
 1. Leeches
@@ -85,3 +101,11 @@
 1. Resources
 
 
+## FAQs
+
+#### Q: See also?
+
+A: 
+
+* [Ease Hell in Anki](https://readbroca.com/anki/ease-hell/):
+	* [story](https://www.reddit.com/r/Anki/comments/ml7t3v/been_an_enthusiastic_user_for_over_6_years_but): Been an enthusiastic user for over 6 years, but only ever read any guides in the last few days. Just learned of the concept 'ease hell'.....

@@ -98,12 +98,19 @@ ffmpeg -i vid.mp4 -vf "subtitles=vid.srt:force_style='Fontsize=24,PrimaryColour=
 
 A:  scale=`160` 
 
+
 ``` bash
 ffmpeg -hide_banner -v warning -i test.gif -filter_complex "[0:v] scale=160:-1:flags=lanczos,split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse" logo-160.gif
 ```
 
 ``` bash
 ffmpeg -hide_banner -v warning -i test.gif -filter_complex "[0:v] scale=320:-1:flags=lanczos,split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse" logo-320.gif
+```
+
+smaller  = 100
+
+``` bash
+ffmpeg -hide_banner -v warning -i test.gif -filter_complex "[0:v] scale=100:-1:flags=lanczos,split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse" logo-160.gif
 ```
 
 * has some issues and need more understanding before using it

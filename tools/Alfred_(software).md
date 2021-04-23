@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/Note-taking">
+	<a href="https://www.wikiwand.com/en/Alfred_(software)">
   <img src="https://i.imgur.com/moBRZsE.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
@@ -17,8 +17,16 @@ Alfred (software)   <br><br>
 
 ## How
 
-- [Awesome Alfred Workflows](https://awesomerank.github.io/lists/derimagia/awesome-alfred-workflows.html)
+- [blog](https://www.alfredapp.com/blog/)
 - [community](https://www.reddit.com/r/Alfred/)
+- [Awesome Alfred Workflows](https://awesomerank.github.io/lists/derimagia/awesome-alfred-workflows.html)
+- [support](https://www.alfredapp.com/help/): This help and support site is here to help you get started with Alfred, as well as find answers to more advanced questions you might have.
+	- [Troubleshooting](https://www.alfredapp.com/help/troubleshooting/) 
+* [Tutorials](https://www.alfredapp.com/help/guides-and-tutorials/): Once you've browsed Alfred's features in the Preferences, you can delve deeper into customising Alfred with these great guides and tutorials.
+* [Alfred Labs](https://www.alfredapp.com/labs/)
+* [Forums](https://www.alfredforum.com/)
+
+
 
 
 ## What 
@@ -35,10 +43,40 @@ There are hundreds of user-created extensions.[9] A large repository for user-cr
 
 Alfred can be used as an alternative to macOS launchers such as Quicksilver and was created primarily with ease of use in mind.[10] Alfred has garnered praise including 2011 Macworld Editors' Choice Award for the best Mac hardware and software of the year,[11] being named TUAW's Best of 2011 Mac utility app[12] and one of The 10 Best Mac Apps of 2011 by Mashable.[13] It has also been recognised as one of 10 Must-have Apps for Mac Newbies by Maclife.com [14] and a runner-up in MacStories Mac App of 2011 reader's choice.[15]
 
-### Features
+### [Features](https://www.alfredapp.com/help/features/)
 
-- **Alfred Powerpack**: Control your Mac with the Powerpack's incredible features, and enjoy workflows and themes.
-- **Alfred Remote for iOS**: Turn your iPhone or iPad into your personal command centre for Alfred for Mac.
+> Alfred is bursting at the seams with great features to make you more productive. Discover how you can search faster, work smarter and save yourself time and effort! 
+
+Here are the various features you'll find under the "Features" section of your Alfred preferences.
+
+
+* [Default Results](https://www.alfredapp.com/help/features/default-results/): These are the main results Alfred presents by default, and where he looks for them
+* File Search: Using the file search keywords is the best way to find files; it keeps the default results both fast and focused
+* Actions: Perform actions on results in Alfred's search
+* Web Search: Search the web using the built-in default web searches or create your own custom searches
+* Web Bookmarks: Search Safari and Google Chrome bookmarks
+* Clipboard History: Automatically store copied items in a searchable clipboard history
+* Snippets and Text Expansion: Keep your most useful snippets always at hand
+* Calculator: Do quick mathematical calculations and copy the result to the macOS clipboard
+* Dictionary: Look up words in Alfred or macOS's dictionary, and paste them into another app
+* Contacts: Search and view your Apple Address Book
+* iTunes Mini Player: Take control of iTunes to find and play your favourite music, or let Alfred pick for you
+* 1Password: Search and open your 1Password 1Click Bookmarks
+* System: Control macOS directly from your keyboard; ejecting, quitting and hiding apps
+* Terminal/Shell: Quickly open the terminal and run shell commands
+* Large Type: Show text and results in large characters across your screen
+* Previews: Customise usage of macOS Quick Look, and how Alfred displays file previews
+
+#### Default Results
+
+> Alfred's Default Results are the ones presented to you when you search without prefixing your search term with a keyword. They include your Applications, Contacts and Preferences by default, but you can modify these to fit your own needs.
+
+* Default Results
+* Search Scope
+* Fallback Searches
+* Applications Matching
+
+
 
 ## FAQs
 
@@ -65,3 +103,15 @@ A:
 A: 
 
 * [alfred-douban](https://github.com/sorrycc/alfred-douban/blob/master/README.md)
+
+#### Q: Tips for Alfred in macOS 11 Big Sur?
+
+A: 
+
+* Give macOS time to build its index
+* Grant Alfred the necessary permissions
+* Making the most of Alfred with the Powerpack
+
+Related: [macOS 11.0 Big Sur Bugs & Issues](https://www.alfredforum.com/forum/45-macos-110-big-sur-bugs-issues/)
+
+

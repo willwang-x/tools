@@ -24,24 +24,12 @@
 
 ## How
 
-![tips](https://i.imgur.com/LdaUJzj.png)
 
+* [getsupernatural Community](https://m.facebook.com/groups/getsupernatural/)
+* [twitter](https://twitter.com/getsupernatural)
 * [FAQ's](https://www.getsupernatural.com/faq)
 * [Youtube: Supernatural](https://www.youtube.com/channel/UC4U87sW4dbXSB9N2imBBA5A?mc_cid=16110fc0e6&mc_eid=689d7ae698)
-
-Tips: 
-
-1. **Choose the right spot**:  Push that coffee table to the side and open up some space. We recommend 8ft by 8ft for the best experience. Avoid direct sunlight and reflections, and make sure you’ve got a healthy Wi-Fi signal.
-2. **Recenter yourself**: Any time you put on your headset, we recommend recentering. Stand in the best spot and hold down the flat Oculus button on your right controller for three seconds.
-3. **Try out a Low intensity workout**: They are marked with a green L on the top left of workout tiles. Make sure to take it easy and let yourself get into a flow as you move.
-4. **Explore the library**: Check out different genres, find the coach that suits your style, and fill your rest days with a meditation or stretch!
-
-### Get the most out of the Companion App
-
-* [Track your progress and stay in the know](https://i.imgur.com/z9Ll5lS.png)
-* [Facebook group](https://www.facebook.com/groups/getsupernatural/?mc_cid=d6e5ea7d2d&mc_eid=689d7ae698)
-* [Share your Membership 
-at Home for Free](https://i.imgur.com/yDLhYh6.png): Bring your roommates and family in on the good times. 
+	* [Triangles](https://www.youtube.com/watch?v=RVfsthXEiDo): Learn when to squat, lunge, and stand tall in this new and improved Triangle walkthrough! You'll have the chance to mirror Coach Raneir as you go through different forms of triangles so that you can get set up for success with whatever comes your way.
 
 ## What 
 
@@ -91,3 +79,20 @@ A: 关于音乐的选择：
 
 * 早上固定，以固定节奏，快速进入工作，e.g. [Quick Hits: Sweat Symphony](https://open.spotify.com/playlist/2SUPCPtUaDgs9KgWfeXQvP?si=5a88885874fe41f1)
 * 晚上新鲜，以探索边界，优化工作流程
+
+#### Q: Get the most out of the Companion App
+
+* [Track your progress and stay in the know](https://i.imgur.com/z9Ll5lS.png)
+* [Facebook group](https://www.facebook.com/groups/getsupernatural/?mc_cid=d6e5ea7d2d&mc_eid=689d7ae698)
+* [Share your Membership 
+at Home for Free](https://i.imgur.com/yDLhYh6.png): Bring your roommates and family in on the good times. 
+
+#### Q: Tips?
+
+[A](https://i.imgur.com/LdaUJzj.png): 
+
+1. **Choose the right spot**:  Push that coffee table to the side and open up some space. We recommend 8ft by 8ft for the best experience. Avoid direct sunlight and reflections, and make sure you’ve got a healthy Wi-Fi signal.
+2. **Recenter yourself**: Any time you put on your headset, we recommend recentering. Stand in the best spot and hold down the flat Oculus button on your right controller for three seconds.
+3. **Try out a Low intensity workout**: They are marked with a green L on the top left of workout tiles. Make sure to take it easy and let yourself get into a flow as you move.
+4. **Explore the library**: Check out different genres, find the coach that suits your style, and fill your rest days with a meditation or stretch!
+

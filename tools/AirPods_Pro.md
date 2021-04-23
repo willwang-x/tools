@@ -8,6 +8,8 @@ Airpods Pro
   <br><br>
 </h1>
 
+> AirPods Pro are wireless Bluetooth earbuds created by Apple, initially released on October 30, 2019. [[wiki](https://www.wikiwand.com/en/AirPods_Pro)]
+
 ## Why
 
 * 特别喜欢的Bose QC35的降噪和无线。

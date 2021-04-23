@@ -22,6 +22,7 @@ Don't underestimate how much your surroundings can influence your productivity. 
 
 ## How
 
+* [pinterest](https://www.pinterest.com/willwillwang/computer-desk/): Computer Desktop I like
 
 <center>
 <a href="https://kit.co/will.wang.wang/computer-desktop">
