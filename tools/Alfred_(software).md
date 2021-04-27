@@ -17,7 +17,7 @@ Alfred (software)   <br><br>
 
 ## How
 
-- [blog](https://www.alfredapp.com/blog/)
+- [Blog](https://www.alfredapp.com/blog/): [Tips and Tricks](https://www.alfredapp.com/blog/category/tips-and-tricks/)
 - [community](https://www.reddit.com/r/Alfred/)
 - [Awesome Alfred Workflows](https://awesomerank.github.io/lists/derimagia/awesome-alfred-workflows.html)
 - [support](https://www.alfredapp.com/help/): This help and support site is here to help you get started with Alfred, as well as find answers to more advanced questions you might have.
@@ -76,7 +76,48 @@ Here are the various features you'll find under the "Features" section of your A
 * Fallback Searches
 * Applications Matching
 
+### [Workflows](https://www.alfredapp.com/help/workflows/)
 
+Use workflows to extend Alfred and get things done in your own way. By replacing manual tasks or mouse-based actions with workflows, you'll boost your productivity.
+
+Workflows are part of the Powerpack features available in Alfred.
+
+You'll find the Workflows section in Alfred's preferences under the "Workflows" header. Take a look at the topics below to discover how workflows can help you make repetitive tasks a thing of the past, making you more efficient on your Mac in ways you never thought possible!
+
+> Tip: Every Workflow object includes a question mark icon in its configuration panel when you double-click the object. Click it to be taken to the relevant page and find out more about that particular object.
+
+Want to jump in right away? Add a few workflows from the built-in "Examples" category to see your first workflows in action! :)
+
+### [Workflow Actions](https://www.alfredapp.com/help/workflows/actions/)
+
+> Actions are the objects that do most of the work in your workflows, from opening or revealing files and web searches to running scripts and performing commands.
+
+* Open File: The Open File action simply opens the file passed into it, either in the default application or the one you specify.
+* Launch Apps / Files
+* This action allows you to quickly launch one or more apps at once (e.g. with a hotkey or keyword).
+* Reveal File in Finder
+* Use "Reveal file in Finder" in tandem with a File Filter object to reveal the selected file in Finder.
+* Browse in Terminal
+* The Browse in Terminal object launches the passed-in file or folder's path and opens it in macOS's Terminal app.
+* Browse in Alfred
+* The Browse in Alfred object launches the passed-in file directory in Alfred's file navigation system.
+* Action in Alfred
+* The Action in Alfred object shows Alfred's Actions Panel for the passed-in file or files.
+* File Buffer
+* The File Buffer workflow object allows you to obtain or manipulate the contents of Alfred's File Buffer.
+* Default Web Search
+* With a Default Web Search, launch Alfred's built-in web searches in your default browser or a specified one.
+* Open URL
+* The Open URL object can be used to launch a URL, with or without a query, or one of your custom searches.
+* System Command
+* Select a System Command from Alfred's built-in commands (sleep, shutdown, restart, etc), with or without a confirm button to quickly control your Mac from a hotkey or keyword.
+* iTunes Command
+* Use an iTunes Command to play/pause iTunes, change tracks, control the volume or rate songs.
+* [Run Script](https://www.alfredapp.com/help/workflows/actions/run-script/): The Run Script object runs a script in your preferred interpreter.
+* Run NSAppleScript
+* The Run NSAppleScript object is used to run AppleScript from Alfred.
+* Terminal Command
+* The Terminal Command object takes the command you've inserted and runs it in Terminal.
 
 ## FAQs
 
